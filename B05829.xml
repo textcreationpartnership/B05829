@@ -1,0 +1,1125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain select cases resolved. Specially, tending to the right ordering of the heart, that we may comfortably walk with God in our general and particular callings. / By Thomas Shephard, sometimes of Emanuel College in Cambridge; now preacher of Gods word in New-England.</title>
+            <author>Shephard, Thomas, 1605-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 131 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05829</idno>
+            <idno type="STC">Wing S3105A</idno>
+            <idno type="STC">ESTC R227738</idno>
+            <idno type="EEBO-CITATION">51617440</idno>
+            <idno type="OCLC">ocm 51617440</idno>
+            <idno type="VID">175369</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175369)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2730:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain select cases resolved. Specially, tending to the right ordering of the heart, that we may comfortably walk with God in our general and particular callings. / By Thomas Shephard, sometimes of Emanuel College in Cambridge; now preacher of Gods word in New-England.</title>
+                  <author>Shephard, Thomas, 1605-1649.</author>
+               </titleStmt>
+               <extent>[8], 74, [2], 77-112 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Re-printed in the year, 1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In two parts: the second part, The first principles of the oracles of God, has a separate titlepage (leaf D6) and is also dated 1695.  Pagination and register are continuous.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+                  <note>Certain select cases resolved -- The first principles of the oracles of God.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Christianity --  Essence, genius, nature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:175369:1"/>
+                  <pb facs="tcp:175369:1"/>
+                  <pb facs="tcp:175369:2" rendition="simple:additions"/>
+                  <pb facs="tcp:175369:2" rendition="simple:additions"/>
+                  <pb facs="tcp:175369:3" rendition="simple:additions"/>
+                  <pb facs="tcp:175369:3"/>
+                  <p>CERTAIN <hi>SELECT CASES</hi> RESOLVED.</p>
+                  <p>Specially, tending to the right ordering of the Heart, that we may comfortably walk with God in our gene<g ref="char:EOLhyphen"/>ral and particular Callings.</p>
+                  <p>By THOMAS SHEPHARD, Sometimes of <hi>Emanuel Col<g ref="char:EOLhyphen"/>ledge</hi> in <hi>Cambridge;</hi> Now Preacher of Gods Word in <hi>New-England.</hi>
+                  </p>
+                  <p>Re-printed in the Year, 1<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>5.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:175369:4"/>
+                  <pb facs="tcp:175369:4"/>
+                  <head>To <hi>The Chriſtian</hi> READER.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">T</seg>His holy Letter of that</hi> ready Scribe <hi>of Chriſts Kingdom, [Mr.</hi> Shepherd <hi>of</hi> New-Eng<g ref="char:EOLhyphen"/>land] <hi>is ſo full of Grace &amp; Truth, that it needs no other Epiſtle com<g ref="char:EOLhyphen"/>mendatory than it ſelf.</hi>
+                  </p>
+                  <p>
+                     <hi>Yet ſeeing the Lot is unexpectedly fallen upon my pen, to give it a</hi> Superſcription, <hi>that it may</hi> paſs current <hi>from hand to hand; I do heartily in the firſt place, de<g ref="char:EOLhyphen"/>dicate it to</hi> thee, thou bleeding, trou<g ref="char:EOLhyphen"/>bled ſpirit, <hi>as a choice cordial Friend, an Interpreter,</hi> one <hi>of a thouſand, that doth not only ſpeak thy heart, but by the Comforter (whom Chriſt has promiſed to ſend) to thy Heart.</hi>
+                  </p>
+                  <pb facs="tcp:175369:5"/>
+                  <p>It may be this paper preſent <hi>is ſent on Embaſſy from Heaven, on purpoſe, to ſet thy Houſe in order, to untie thy bo<g ref="char:EOLhyphen"/>ſom knots, to bind the ſtrong man, and cast him out of thy doors, that thy Heart may be once again ſet at liberty, to ſerve the Lord thy God in thy general and parti<g ref="char:EOLhyphen"/>cular Calling, whoſe ſervice is thy free<g ref="char:EOLhyphen"/>dom. What is here ſent by this Ambaſ<g ref="char:EOLhyphen"/>ſador of Chriſt, (who is now the voice of one crying in the wilderneſs) to a wea<g ref="char:EOLhyphen"/>ry and heavy laden Soul in this Iſland. I had rather it ſhould appear to thy judg<g ref="char:EOLhyphen"/>ment in the ſerious reading, and to thy con<g ref="char:EOLhyphen"/>ſcience in the home application thereof, than from my opinion of it: Therefore I ſhall only add (as the Contents of this Letter)</hi> certain ſelect Caſes, propoſed and re<g ref="char:EOLhyphen"/>ſolved <hi>in the ſeveral Paragraphs there<g ref="char:EOLhyphen"/>of, as they lie in order in the Pages follow<g ref="char:EOLhyphen"/>ing,</hi> viz.</p>
+                  <p>Page 3. Trouble of mind in civil affairs, by the ſecret injection of religious thoughts.</p>
+                  <p>Page 5. From what Spirit ſuch ſuggeſtions do ariſe.</p>
+                  <pb facs="tcp:175369:5"/>
+                  <p>Page 10. How to entertain them when they crowd in.</p>
+                  <p>Page 14. Concerning the not being humbled for ſinful diſtractions, that hinder and imerrupt the ſpiritual performance of holy duties.</p>
+                  <p>Page 19. How a Chriſtian may be ſaid to be under the Covenant of works.</p>
+                  <p>Page 21. How to conceive a right of that My<g ref="char:EOLhyphen"/>ſtery of Myſteries, the bleſſed Perſons in the Trinity.</p>
+                  <p>Page 26. The Souls aptneſs to go to God im<g ref="char:EOLhyphen"/>mediatly in holy duties, without taking Chriſt Jeſus by the hand.</p>
+                  <p>Page 30. How to apply abſolute promiſes to thy ſelf, tho' they are made indefinitely without condition.</p>
+                  <p>Page 43. A notable diſcovery of a ſecret un<g ref="char:EOLhyphen"/>willingneſs in the Soul, to ſeek God in the ſtricteſt ſolemn ſervices, before it entreth into them: Wearineſs of them,
+<pb facs="tcp:175369:6"/> while they laſt; and a gladneſs, when they are ended.</p>
+                  <p>Page 47. A ſound confutation of that Hereti<g ref="char:EOLhyphen"/>cal Arminian Tenet, <hi>viz.</hi> That the ſtrength of Grace is to be got rather by Argumentation, than inward Commu<g ref="char:EOLhyphen"/>nication and influence, ariſing from u<g ref="char:EOLhyphen"/>nion with Chriſt.</p>
+                  <p>Page 49. The experiences of this tried ſervant of Chriſt, (who is the Pen-man here<g ref="char:EOLhyphen"/>of) how he was cured of Atheiſtical thoughts: whether they did wear out, or whether by the dint of Arguments they were rationally overthrown.</p>
+                  <p>Page 54. Laſtly, whether thoſe changes, which a child of God hath ſometimes, and thoſe movings of the ſpirit are cau<g ref="char:EOLhyphen"/>ſed by a natural temper, or Gods Spi<g ref="char:EOLhyphen"/>rit.</p>
+                  <p>
+                     <hi>All which</hi> ſelect Caſes <hi>(and many more, that collaterally iſſue from their ſides) are judiciouſly</hi> reſolved <hi>with much perſpicuity and brevity in theſe few ſheets, by the only ju<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ge of all Controverſies,</hi> the
+<pb facs="tcp:175369:6"/> two-edged ſword of the Spirit, the Word of God.</p>
+                  <p>
+                     <hi>Thus humbly beſeeching thee, to read over this Epiſtle of Chriſt to thee, with the ſame Spirit of love, and of a ſound mind, which indited every line in it.</hi>
+                  </p>
+                  <p>
+                     <hi>I do deſire to leave thee at the Throne of Graee, in the arms of Chriſt, with the Father of all Comfort; that thou mayest receive the Peace of God, which paſſes all underſtanding; and be crowned with joy unſpeakable, and full of Glory.</hi>
+                  </p>
+                  <closer>
+                     <signed>I ſubſcribe my ſelf <hi>Friend,</hi> Thine in any Spiritual furtherance of thy Faith, <hi>William Adderley.</hi>
+                     </signed>
+                     <dateline>Dated from <hi>Charter houſe</hi> in <hi>London,</hi> 
+                        <date>Febr. 1. 1647.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb facs="tcp:175369:7"/>
+                  <opener>
+                     <salute>
+                        <pb n="1" facs="tcp:175369:7"/>Dear Sir;</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg> Dare not multiply many words in acknowledging and profeſſing my own unfitneſs and inſufficien<g ref="char:EOLhyphen"/>cy to yield your loving and moſt welcom Letter, that ſatisfac<g ref="char:EOLhyphen"/>tion which both your Self deſire, and it deſerves: Neither yet will I be ſo un<g ref="char:EOLhyphen"/>faithful to you (ſeeing your expecta<g ref="char:EOLhyphen"/>tion puts me to reply) neither ought I (I think) be ſo unſerviceable to Jeſus Chriſt, who in you, and by you, bec<g ref="char:EOLhyphen"/>kens to me to take this call to write to you, and not to neglect ſo fair a ſea<g ref="char:EOLhyphen"/>ſon, ſeeing eſpecially it may be poſſi<g ref="char:EOLhyphen"/>ble my dying Letter to you, before I depart from hence, and return to him, as not knowing but our laſt diſaſters &amp; Sea-ſtraits (of which I wrote to you.) may be but preparations for the execu<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:175369:8"/> of this next approaching voyage. Yet our eyes are to the hills, and our deſires are your prayers; and at this time my endeavour ſhall be in reſpect of your ſelf, to break open that light to you, and to prepare it to you, with that brevity I may, and with what plainneſs I am able; beſeeching the God &amp; Father of our Lord Jeſus Chriſt, who muſt be when all fails, the won<g ref="char:EOLhyphen"/>derful Counſellor, to give you the ſpi<g ref="char:EOLhyphen"/>rit of revelation, and that after you have ſuffered a while by theſe outward temptations, doubts, fears, deſer<g ref="char:EOLhyphen"/>tions, diſtractions, which the Letter mentions, he would make you perfect, ſtabliſh, ſtrengthen, and ſettle you. And this I verily think will be unexpect<g ref="char:EOLhyphen"/>ed, yet happy, joyful, and moſt glo<g ref="char:EOLhyphen"/>rious end of them; For ſince I have ob<g ref="char:EOLhyphen"/>ſerved and ſeen the lamentable ruins of the Soul, and ſeeming graces of many men, by being rockt aſleep in a quiet, ſtill, calm, eaſie performance of du<g ref="char:EOLhyphen"/>ties; without ſuch awaking tempta<g ref="char:EOLhyphen"/>tions and tumults within, which it ſelf complains of: I ſay, ſince I have obſerved what a deal of mud is in the
+<pb n="3" facs="tcp:175369:8"/> bottom of ſuch ſtanding Pools, and what a deal of filth is in ſuch Moats, which are inwardly at eaſe, and not emptied from veſſel to veſſel, next un<g ref="char:EOLhyphen"/>to the donation of the Lord Jeſus to a man, I have accounted ſuch tumultu<g ref="char:EOLhyphen"/>ous heart-ſtorms and uproars, together with the fruitful ſtrange effects of them, the ſecond mercy. For I never ſaw that man kept from ſecret putre<g ref="char:EOLhyphen"/>faction and corruption, that was not uſually ſalted with ſuch temptations (eſpecially in a Chriſtians firſt Appren<g ref="char:EOLhyphen"/>tiſhip) which uſually preſerve him en<g ref="char:EOLhyphen"/>tire till death. And therefore (Dear Sir) faint not; for Jeſus Chriſt will raiſe a world of bleſſings out of your preſent Chaos and confuſions. But I make haſte to anſwer. Before you re<g ref="char:EOLhyphen"/>ply to my firſt Letter, your complaints are many.</p>
+                  <p>Your firſt trouble is, concerning your diſturbances in civil affairs, by the ſecret injection of Religious thoughts; ſo that you know not how to follow the one, without hazard of grieving the ſpirit, and breaking your peace, in not maintaining and nouriſhing the
+<pb n="4" facs="tcp:175369:9"/> ſame time the other: and hence being drawn to go two ways at the ſame time (which you cannot well do) your Heart is diſquieted, and your peace much interrupted.</p>
+                  <p>This of yours, puts me in mind of the complaint of an honeſt, yet plain man, to an able Miniſter once, who in bewailing his condition to him, a<g ref="char:EOLhyphen"/>mong other miſeries, that was not the leaſt: <hi>(viz.)</hi> that he was exceedingly troubled with good thoughts, ſo that he could not follow his place, unleſs very oft he did ſtand ſtill and pray, for fear of grieving the Spirit, (as he thought) and loſing his ſeaſon of being heard in Heaven: (for ſaid Conſcience oft unto him) how doſt thou know but this may be thy accepted time, and if thou doſt not take it, it may be thou ſhalt never have it again? I have for<g ref="char:EOLhyphen"/>got the Miniſters anſwer, but I am ſure in theſe complaints you go not a<g ref="char:EOLhyphen"/>lone: I have lately known one very a<g ref="char:EOLhyphen"/>ble, wiſe, and godly, put upon the Rack in theſe kind of thoughts by him, that envying Gods peoples peace, knows how to change himſelf into an Angel
+<pb n="5" facs="tcp:175369:9"/> of light. For it being his uſual courſe in the time of his health, to make a diary of his hourly life, and finding much benefit by it, he was in Conſci<g ref="char:EOLhyphen"/>ence preſt by the power and deluſion of Satan, to make and take the ſame dai<g ref="char:EOLhyphen"/>ly ſurvey of his life in the time of his ſickneſs, by means of which, he ſpent his enfeebled ſpirits, caſt on fuel to fire his ſickneſs, and had not a friend of his convinced him of his erronious conſcience, miſleading him at that time, he had murdered his body, out of conſcience to ſave his Soul, and to preſerve his grace; and do you think theſe were the motions of Gods Spirit, which like thoſe Locuſts, <hi>Rev.</hi> 9. 9, 10. had faces like men, but had tailes like Scorpions, and ſtings in their tailes?</p>
+                  <p>Your thoughts I know, are not like<g ref="char:EOLhyphen"/>ly to produce the ſame effects; altho you have the ſame efficient: and be<g ref="char:EOLhyphen"/>cauſe you ſay your peace is hereby di<g ref="char:EOLhyphen"/>ſturbed by ignorance, as not knowing what to do in the midſt of theſe Civil actions and theſe religious thoughts, I conceive that two things are to be ſad<g ref="char:EOLhyphen"/>ly
+<pb n="6" facs="tcp:175369:10"/> conſidered of, for the cure of them, Firſt, how to know when ſuch religious pi<g ref="char:EOLhyphen"/>ous <note place="margin">Two things to be conſi<g ref="char:EOLhyphen"/>dered about motions.</note> thoughts come from Gods Spirit, and when from the devil transfor<g ref="char:EOLhyphen"/>ming himſelf into an Angel of light, or from a well-melted ſtirring conſcience, yet blind. For when you know they come from Gods Spirit, you are bound to nouriſh them, but when not, you are bound not to embrace nor comply with them. Se<g ref="char:EOLhyphen"/>condly, learn how your Soul is to be<g ref="char:EOLhyphen"/>have and carry it ſelf in Civil employ<g ref="char:EOLhyphen"/>ments: For when you ſee how you do, and may honour God in following them, your Spirit will not be ſo un<g ref="char:EOLhyphen"/>quiet, if at any time you imbrace not the ſuggeſtions of the other.</p>
+                  <p>1. For the firſt briefly, all good motions and thoughts are not the Spi<g ref="char:EOLhyphen"/>rits motions, as may thus appear.</p>
+                  <p>There be three things chiefly by which we <note place="margin">How to try the motions of Gods Spirit.</note> may diſcern the mo<g ref="char:EOLhyphen"/>tions, ſuggeſtions, and thoughts which come
+<pb n="7" facs="tcp:175369:10"/> from Gods Spirit: all which concur<g ref="char:EOLhyphen"/>ring together in a good action, or thought, or word, (not one alone) will make diſcovery whether they are from Gods Spirit or not.</p>
+                  <p>1. If it be ſuggeſted for Gods ends, its from Gods Spirit, to act ſo high as for a ſupernatural end, muſt ariſe from a ſupernatural principle, which only is Gods Spirit, Phariſaical actions were for a double ſelfiſh end; and hence, not from Gods Spirit, but nature, and their own ſpirit. 1. To be ſeen of men. 2. If they did any of them abhor this, yet it was to purchaſe and gender in their own minds an opinion of holineſs before God, and hence Chriſt gives them this Item, in giving Alms, that they ſhould not let the right hand know what their left hand doth: for many men will do good acts, leſt they ſhould by the neglect of them, think them Hypocrites, and ſo be troubled for them: Chriſt would have us not to take notice of what we do for ſuch an end.</p>
+                  <p>If they be animated and quickned from Gods command, for the higher
+<pb n="8" facs="tcp:175369:11"/> meaſure of holineſs for glorious ends, without u warrant from the Word, is the more for did ſuperſtition: Chriſt healed the Leper, when he charged him with anger to tell no man, he, (no queſtion for a good end) publiſhed the miracle the more; this was a good motion, but it was ſinful in him, be<g ref="char:EOLhyphen"/>ing croſs to Chriſts command: when Chriſt would have waſhed <hi>Peters</hi> feet, he had many thoughts that came into h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s head, concerning his own vileneſs, and Chriſts glory; and had a good end and meaning in his anſwers; yet his humility croſſing Chriſts command, the Lord profeſſeth againſt it, and him for it, that he had no part in him, if he ſhould go on in it.</p>
+                  <p>3. Gods Spirit ſets a man on work in due ſeaſon; for let the duty be com<g ref="char:EOLhyphen"/>manded and rightly directed, yet if it be not done in ſeaſon; it is not from Gods Spirit: hence, Pſal. 1. <hi>The righ<g ref="char:EOLhyphen"/>teous bring forth fruit in its ſeaſon:</hi> and hence <hi>Solomon</hi> ſpeaks of <hi>words ſpoken in ſeaſon, are as apples of Gold:</hi> and hence we read in Eccleſiaſtes, of <hi>a time and ſeaſon for every thing under the Sun:</hi> and
+<pb n="9" facs="tcp:175369:11"/> therefore when there is a ſeaſon of Gods appointing for civil things or buſineſs, it is not ſeaſon now to be moleſted or perplexed in it, by the injection and evocation of thoſe thoughts which we think to proceed from the Spirit of God: I know indeed, that the Spirit of God doth enable a man to do whatever good he doth; but as Grace makes Nature ſometimes to ſerve, ſo ſin ful Nature brings Grace into captivity, (which <hi>Paul</hi> complains of, <hi>Rom.</hi> 7.) and makes Grace to ſerve it. To exhort and re<g ref="char:EOLhyphen"/>prove another for ſin, is from Gods Spirit that it is done; but to reprove at an unſeaſonable time, its from ſin<g ref="char:EOLhyphen"/>ful corruption, abuſing Gods grace, and making <hi>Sampſon</hi> to grind. Its from the excellency of of knife to cut well; but to cut my finger with it when I ſhould be cutting of my meat with it, ariſeth not from the end of the knife, nor from the intention of him that made it: ſo to think of good things, it is from the ſpirit, I grant; but to think of them in ſuch a ſeaſon that God ſets you a work to mind and follow other occaſions, its from the enemy of Gods
+<pb n="10" facs="tcp:175369:12"/> ſpirit, and your own peace; for as it is a ſin to nouriſh worldly thoughts when God ſets you a work in ſpiritual hea<g ref="char:EOLhyphen"/>venly imployments, ſo it is (in ſome reſpects) as great a ſin to ſuffer your ſelf to be diſtracted by ſpiritual thoughts, when Gods ſets you on work in Civil (yet lawful) imploiments: ſuch thoughts (I conceive) are but the leven of Mon<g ref="char:EOLhyphen"/>kiſh holineſs, if they divert you from your lawful affairs, when the Lord calls you to follow them. For the Lord never calls you to two divers imploy<g ref="char:EOLhyphen"/>ments at the ſame time, unleſs you make the one to be a means to further the good of the other; which ſuch pious thoughrs in ſome civil imployments do, it being no piece of Chriſtian wiſ<g ref="char:EOLhyphen"/>dom or honeſty to turn round in world<g ref="char:EOLhyphen"/>ly imployments ſo long till by giddineſs we fall down, but by ſecret ſteps ever and anon to look up to heaven, and to behold the face of God, to whom on<g ref="char:EOLhyphen"/>ly there in we are to approve our ſelves. But yet it ſeems your thoughts are ſo far from being ſubſervient the one to the other, that you are diſtracted and moleſted, &amp; your peace interrupted, and
+<pb n="11" facs="tcp:175369:12"/> your Chriſtian courſe made troubleſom, and an heavy but then, which ſurely can<g ref="char:EOLhyphen"/>not be by the yoke of JeſusChriſt; there<g ref="char:EOLhyphen"/>fore you muſt firſt bring your trou<g ref="char:EOLhyphen"/>bles in this particular to this iſſue, either you may follow your civil affairs, and nouriſh theſe thoughts as helps to main<g ref="char:EOLhyphen"/>tain your peace, and make you heaven<g ref="char:EOLhyphen"/>ly minded in them, (and if they ſerve ſufficiently to ſuch an end, why are you troubled with them?) or elſe you can<g ref="char:EOLhyphen"/>not follow God comfortably in civil a<g ref="char:EOLhyphen"/>ctions, unleſs you baniſh from you thoughts which do ſo miſerably di<g ref="char:EOLhyphen"/>ſtract you; and then why do you fear you ſhall grieve Gods Spirit, if at the ſame time you do not give entertain<g ref="char:EOLhyphen"/>ment to them, the unſeaſonableneſs of which, ſpeaks plainly they came not from the ſpirits ſuggeſtions, beſides their hinderance of comfortably walk<g ref="char:EOLhyphen"/>ing with God, which the imployments themſelves can never hinder.</p>
+                  <p>But you will ſay, When is the ſeaſon of nouriſhing ſuch thoughts?</p>
+                  <p>I anſwer, Entertain thoſe thoughts as (it may be) you have done ſome Friends, who came to you at that time
+<pb n="12" facs="tcp:175369:13"/> you have buſineſs with ſtrangers, (whom you love not ſo well as your Friends,) you have deſired them to ſtay a while, until you have done with the other, and then you have returned to your Friend, and when the other has been ſhut out of the doors, the o<g ref="char:EOLhyphen"/>ther has had the welcom, and has lod<g ref="char:EOLhyphen"/>ged with you all night; and thus you have g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ieved neither, but pleaſed both. It is ſo in this caſe, Worldly employ<g ref="char:EOLhyphen"/>ments are our ſtrangers, yet they muſt be ſpoke with, Religious thoughts and practices are our Friends, theſe come unto us while God calls us to parley with the other, you cannot ſpeak with both at one time, in one place, with<g ref="char:EOLhyphen"/>out much perplexity: Take therefore this courſe, make much of the good thoughts, but parley not with them till your buſineſs is done with ſtrangers; and towards evening, which is your ſeaſon, ſet ſome time apart every day for meditation, and then make them welcome; then conſider and ponder well what was ſuggeſted to you in the day time, and ſift every good thought to the bran, for then is your ſeaſon,
+<pb n="13" facs="tcp:175369:13"/> and after that let them ſup and lodge with you all night, and keep the houſe with you every day. And ſurely, when the Lord Jeſus ſhall ſee what a Friend you ſhall make of his Spirit, and how wiſely you walk therein, you ſhall not need to fear any grieving of it, or un<g ref="char:EOLhyphen"/>ſeaſonable times: nay, (I ſay) you will moſt fearfully grieve his Spirit, if you parley with the conceived ſugge<g ref="char:EOLhyphen"/>ſtions of it at unſeaſonable times. <hi>What thou doſt, do it with all thine Heart,</hi> ſaith <hi>Solomon,</hi> Eccl. 9.</p>
+                  <p>Therefore when you are to pray, confer, or meditate, do it with all your mind, and all your thoughts, and all your ſtrength. So when God calls you to worldly employments, do them with all your mind and might, and when the ſeaſon of meditation comes, take it, which glorious ordinance of God, although many Chriſtians uſe it occaſionally, and againſt ſome good time, or when they have leiſure meet<g ref="char:EOLhyphen"/>ing with them, yet to ſet ſome time apart for it in a ſolemn manner every day, and that in conſcience, as we do for prayer generally, where is the man
+<pb n="14" facs="tcp:175369:14"/> to be found that does thus? Thoſe men that thus neglect their ſeaſon of muſing and entring into parley with Gods Spi<g ref="char:EOLhyphen"/>rit daily, may be well ſaid to grieve the Spirit, <hi>through the neglect of which ordinance, Gods Spirit is as much grieved by Profeſſors in England, as by any courſe I know</hi> The Lord awaken us: but I have run too far already in this firſt part of my anſwer.</p>
+                  <p>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>2 <hi>Means.</hi> For the ſecond means, <hi>viz.</hi> how the ſoul is to carry it ſelf in Civil employments, that ſo you may not think you do for better, when you liſten to good thoughts as you men<g ref="char:EOLhyphen"/>tion:</p>
+                  <p n="1">1. I ſay but two things, 1. Learn to follow them out of an awful reſpect to the eye, preſence, and command of Jeſus Chrift; and to do what you do in Civil buſineſſes, as the Work of Chriſt; When you are riding, or ma<g ref="char:EOLhyphen"/>king up breaches between man and man, then think I am now about the work of Jeſus Chriſt.</p>
+                  <p n="2">2. Secondly, ſeeing your ſelf thus working in worldly employments for him, you may eaſily apprehend that
+<pb n="15" facs="tcp:175369:14"/> for that time God calls you to them, and you attend upon the work of Jeſus Chriſt in them; that you honour God as much, nay more by the meaneſt ſer<g ref="char:EOLhyphen"/>vile worldly act, than if you ſhould have ſpent all that time in meditation, prayer, or any other ſpiritual employ<g ref="char:EOLhyphen"/>ment, to which you had no call at that time: It is noted therefore by ſome, of <hi>Peters</hi> Wife's mother, that when Chriſt had healed her of her Fevor, ſhe ſate not down at Table with Chriſt in communion with him, which (no queſtion) was ſweet, but miniſtred at the Table, and ran too and fro, and ſo ſerved him, and acted for him; wherein ſhe ſhewed more love, and gave him more honour, <hi>viz.</hi> in that mean ſervice, and in acting for him, than in having communion with him: now if the Lord would out of his abun<g ref="char:EOLhyphen"/>dant goodneſs, ſet the Soul in ſuch an acting frame for him, and if it could do i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s worldly employments, as the Work of Chriſt, and ſee how greatly it honours Chriſt in attending on him, Oh what peace ſhould a Chriſtian en<g ref="char:EOLhyphen"/>joy, notwithſtanding all his diſlracti<g ref="char:EOLhyphen"/>ons
+<pb n="16" facs="tcp:175369:15"/> every day! And how eaſily would ſuch devout thoughts you ſpeak of, be repell'd like darkneſs before the light, for the nobleneſs of thoſe good thoughts you ſpeak of preſenting themſelves a<g ref="char:EOLhyphen"/>gainſt the mean and baſe outſides of Civil affairs, makes you ready to ho<g ref="char:EOLhyphen"/>nour the one, when you are call'd to ſerve the other: but now, by ſeeing, you do the Work of Chriſt Jeſus in them, you ſhall hereby ſee a glory in the meaneſt ſervice you perform in Ci<g ref="char:EOLhyphen"/>vil affairs, and this will make you cleave unto them But I have ſaid too much about repelling of good thoughts in theſe times, wherein men have to few, though (it may be) little enough to ſatisfie you.</p>
+                  <p>
+                     <hi>Queſt.</hi> 2. Your ſecond trouble is this <hi>(viz.)</hi> that your Heart is kept from being humbled for ſinful diſtra<g ref="char:EOLhyphen"/>ctions, that hinder and interrupt the ſpiritual performance of holy duties, and that for two reaſons: Firſt, Be<g ref="char:EOLhyphen"/>cauſe they be involuntary and acciden<g ref="char:EOLhyphen"/>tal. Secondly, Becauſe they cannot break the Covenant between God and your Soul, being but infirmities.</p>
+                  <pb n="17" facs="tcp:175369:15"/>
+                  <p>
+                     <hi>Anſw.</hi> For the latter clauſe con<g ref="char:EOLhyphen"/>cerning breach of Covenant, toge<g ref="char:EOLhyphen"/>ther with the other. 1. I ſay, not on<g ref="char:EOLhyphen"/>ly infirmities do not, but the great<g ref="char:EOLhyphen"/>eſt ſins cannot make a breach of Covenant between God and the ſoul that is once really (not rationally) wrapt up in the Covenant of grace. In<g ref="char:EOLhyphen"/>deed groſs ſcandalous ſins, nay in<g ref="char:EOLhyphen"/>firmities, when they are given way to, and not reſiſted, may keep the ſoul from the fruition for a time of Gods Covenant, but never from the eter<g ref="char:EOLhyphen"/>nal <hi>jus</hi> and right unto it; for as the habit of Faith or Grace gives a man a conſtant right to the promiſe and Co<g ref="char:EOLhyphen"/>venant (which ſeed ever remains, which habit ever laſts, <hi>Jer.</hi> 3. 9.) ſo the act of Faith or Grace gives a man fruition of the Covenant and the be<g ref="char:EOLhyphen"/>nefit of the promiſe, and hence by the acting and venting of ſome ſins wherein there is included the neglect of the exerciſe of grace, He that is really in covenant with God, may be deprived of the fruition of it; yet ſee<g ref="char:EOLhyphen"/>ing the ſeed of God, and the habit of grace ever remains, he cannot by a<g ref="char:EOLhyphen"/>ny
+<pb n="18" facs="tcp:175369:16"/> ſin break his covenant; for the cove<g ref="char:EOLhyphen"/>nant of grace is abſolute, wherein the Lord doth not only promiſe the good, but to begin &amp; perfect &amp; fulfil the con<g ref="char:EOLhyphen"/>dition abſolutly, without reſpect of ſin, <hi>ex parte creaturae:</hi> Indeed if Gods cove<g ref="char:EOLhyphen"/>nant of Grace did (as that of works) depend upon man to fulfil the condi<g ref="char:EOLhyphen"/>tion, having ſufficient grace to ful<g ref="char:EOLhyphen"/>fil it, then groſs ſin might well break the Covenant: but ſeeing God hath undertaken to fulfil the Covenant ab<g ref="char:EOLhyphen"/>ſolutely, not withſtanding all the evils and ſins of the ſoul, no ſin can poſ<g ref="char:EOLhyphen"/>ſibly break that knot and covenant which ſo firm and reſolute love hath once knit. And therefore, if this be a good argument, Infirmities cannot break covenant: What cauſe have I to be humbled for them? ſo as to ſay, It is thy mercy Lord that I am not conſumed for them (as you write) you may upon the ſame ground ſay ſo, If the Lord ſhould deſert you, or you for Take the Lord, and ſo fall into the fouleſt ſin, which I ſuppoſe cor<g ref="char:EOLhyphen"/>rupt conſcience dares not be ſo bold as to think or allow of.</p>
+                  <pb n="19" facs="tcp:175369:16"/>
+                  <p>2. Secondly, I ſay the leaſt ſins or infirmities do break the firſt covenant of works: and hence you do not on<g ref="char:EOLhyphen"/>ly deſerve, but are under the ſen<g ref="char:EOLhyphen"/>tence of death, and curſe of God, immediatly after the leaſt hairs<g ref="char:EOLhyphen"/>breadth, ſwarving from the Law by the ſmalleſt ſin, and moſt involuntary accidental infirmity. According to the Tenor of the Law, the ſoul that ſin<g ref="char:EOLhyphen"/>neth ſhall die: and <hi>curſed is he that continueth not in all things of the Law.</hi> Gal. 3. 10. The leaſt ſin being <hi>(ex parte objecti)</hi> in reſpect of God againſt whom it is committed, as horrible and as great as the greateſt. For it be<g ref="char:EOLhyphen"/>ing an infinite wrong, being the diſho<g ref="char:EOLhyphen"/>nour of an infinite Majeſty, there can be no greater wrong than an in<g ref="char:EOLhyphen"/>finite one, unleſs you can imagin a thing greater than that which is inſi<g ref="char:EOLhyphen"/>nite; and therefore in this reſpect, there is as much venom and miſchief done againſt God in the leaſt, as in the greateſt ſin: And therefore it, and whoſoever commit it, deſerve death for it, as if they had com<g ref="char:EOLhyphen"/>mitted the fouleſt ſin in the world:
+<pb n="20" facs="tcp:175369:17"/> and therefore after the leaſt and ſmal<g ref="char:EOLhyphen"/>leſt infirmities, you may from hence ſee what cauſe you have freely to be humbled, and to confeſs for them how worthy you are to be deſtroyed; yea, even to look upon your ſelf as lying under the ſentence of the Law and death, immediately after the commiſ<g ref="char:EOLhyphen"/>ſion of them, and ſo to mourn bitter<g ref="char:EOLhyphen"/>ly for them.</p>
+                  <p>
+                     <hi>Object.</hi> But you will ſay, a Chri<g ref="char:EOLhyphen"/>ſtian that is under the Covenant of Grace, is not within the Covenant of Works, that Bond is cancelled, the laſt will muſt ſtand: and therefore he being out of that Covenant, no ſins of his can be ſaid to break the Cove<g ref="char:EOLhyphen"/>nant, for no man can be ſaid to break that Law under which he is not, and which he is not bound to keep.</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, every Believer has a double being or ſtanding, and ſo there may be put upon him a double reſpect.</p>
+                  <p>1. Firſt, he may be conſidered as united to, and having a ſpiritual being on Chriſt; and ſo it is true, he is un<g ref="char:EOLhyphen"/>der Grace, and the Covenant of Grace,
+<pb n="21" facs="tcp:175369:17"/> and not under the Law, nor the Cove<g ref="char:EOLhyphen"/>nant of works; and hence not being under the Law, nor bound to keep it as a covenant of life (tho' it be a rule of life) no ſin can condemn him, there being no condemnation to them that are in Chriſt Jeſus, <hi>Rom.</hi> 8. 1. But as Chriſt is above condemnation, and law, and death, and curſe, ſo is he. And this truly underſtood, is the foundation of a Chriſtians joy and peace, and glory eve<g ref="char:EOLhyphen"/>ry day; yet ſo, as tho' ſin doth not con<g ref="char:EOLhyphen"/>demn him, yet he has good reaſon to ſay, it is mercy, and meer mercy, Lord, that I am not conſumed, that I am condemned. For ſin is the ſame; nay grace and Gods love aggravates ſin; for to ſin againſt the law, deſerves death without recovery; but to ſin when grace has received me, and lo<g ref="char:EOLhyphen"/>ved me; when the blood of Chriſt has been ſhed abundantly, to deliver me from ſin; Oh this makes the moſt ſe<g ref="char:EOLhyphen"/>cret ſilent ſin a crying one! So that if you do conſider this well, you may ſee what little cauſe there is to have your heart riſing againſt the dee<g ref="char:EOLhyphen"/>peſt humilation for the leaſt ſin, tho'
+<pb n="22" facs="tcp:175369:18"/> you be in Chriſt, and under grace: For as <hi>Daniel,</hi> when he was put into the Lions den, had not the cauſe to wonder that he was not torn in pie<g ref="char:EOLhyphen"/>ces by them; and why? becauſe it was not from any defect on their parts to tear him in pieces, but from the omnipotent power, and mercy, and grace of his God, that muzzell'd their mouths; ſo tho' no Lion can <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ear, tho' no ſins can hurt or con<g ref="char:EOLhyphen"/>demn a Chriſtian, as he is conſidered in Chriſt; yet, has not he cauſe to confeſs and wonder, and ſay, Lord, it is thy meer grace and mercy that it is not ſo? (which is the act of hu<g ref="char:EOLhyphen"/>milation your letter ſaith you can hard<g ref="char:EOLhyphen"/>ly come unto) and why? not becauſe Gods grace puts any leſs evil in ſin, but becauſe it is meerly grace that keeps it from ſpitting that venom which otherwiſe it would.</p>
+                  <p>Secondly, A Chriſtian may be con<g ref="char:EOLhyphen"/>ſidered in reſpect of his natural being in hi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>elf, and thus he is ever under the Law, and as oft as he ſinneth, un<g ref="char:EOLhyphen"/>der the ſentence of death (and as the Apoſtle ſpeaks) by na<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure even we (juſti<g ref="char:EOLhyphen"/>fied,
+<pb n="23" facs="tcp:175369:18"/> quickned) are the children of wrath as well as others. And thus after the leaſt involuntary accidental ſin, you may eaſily ſee what cauſe you have to lie down deeply humbled, mourning under the ſentence of death, and Gods eternal curſe, as a condemned man going to execution, to feel that fire that ſhall never go out, looking upon your ſelf as you are in your ſelf, a for<g ref="char:EOLhyphen"/>lorn caſt-away every moment: and this truly underſtood is the foundation of a Chriſtians ſorrow, ſhame, and con<g ref="char:EOLhyphen"/>fuſion of face, ſelf-loathing, ſelf-for<g ref="char:EOLhyphen"/>getting, ſelf-forſaking, and condem<g ref="char:EOLhyphen"/>ning every day: and (believe it Sir) it is no ſmall Piece of a Chriſtians skill and work, to put a difference between himſelf and himſelf, himſelf as he is in Chriſt, and ſo to joy and triumph, and himſelf as he is grow<g ref="char:EOLhyphen"/>ing on his firſt root, and ſo to ſorrow, and loath, and condemn himſelf: ſo that (to wind up all that I have ſaid) look upon your ſelf as in Chriſt, you may ſay theſe involuntary infirmities do not, ſhall not, condemn me.</p>
+                  <p>But Lord it is grace, Grace that it is
+<pb n="24" facs="tcp:175369:19"/> not ſo, and this is Evangelical humilia<g ref="char:EOLhyphen"/>tion. Look again upon your ſelf, as you ſtand on your own bottom, and live in your own nature, and ſo you may ſay after the leaſt infirmity, I have now broken a moſt holy and righteous Law, and rherefore I am already condemned: O woe is me, I have already undone my ſelf by mine iniquity: and this is Legal hu<g ref="char:EOLhyphen"/>miliation, which ſerves for mortifica<g ref="char:EOLhyphen"/>tion, as the firſt for vification. I know it is very difficult to bring the heart to acknowledg freely it deſerves death after ſo ſmall an involuntary offence; but when the Lord reveals two things, Firſt, himſelf in his glory, Secondly, how the leaſt ſin ſtrikes him: I per<g ref="char:EOLhyphen"/>ſwade my ſelf the vileſt heart cannot but be forced to confeſs how juſt God ſhould be in his ſevereſt proceedings againſt him. And withal conſider, the more involuntary any ſin is, the more ſtrong and natural it is, and the more natural, the more horrible; as to be a natural Thief is far worſe than to be a deliberat thief, who ſomtimes ſteals, and therefore (good Sir) take
+<pb n="25" facs="tcp:175369:19"/> heed of looking no deeper, nor ſee<g ref="char:EOLhyphen"/>ing no further than the bare act, and unvoluntarineſs and accidentalneſs, and ſuddenneſs of your infirmities: for if you do, you look through the wrong end of the glaſs, and they will appear ſo ſmall, that you will find it a very tough work to bring your heart con<g ref="char:EOLhyphen"/>ſentively to ſay (if I may ſay and uſe your own phraſe) It is thy mercy Lord that I am not conſumed for them: but look upon them as indeed they are, in reſpect of that infinite glory, you ſtrike doing the greateſt miſchiefs to God by them, and (which makes them the viler) as they are ſo ſtrong, you cannot remove them; and ſo horrible as that it is natural to you to commit them, &amp;c. And ſurely you will not (through grace) find ſuch thoughts haunt you long, not but that they will be (haply) riſing and tempting, but ne<g ref="char:EOLhyphen"/>ver alway vexing and prevailing. <hi>Anſ.</hi> Satans ground reaching as far as the minds of Gods people, and therefore ſo far he may come, and there he may walk, (for he came into the mind of innocent <hi>Adam,</hi> nay <hi>Jeſus Chriſt,</hi> by
+<pb n="26" facs="tcp:175369:20"/> his ſuggeſting temptations) but the heart is Chriſts peculiar poſſeſſion and purchaſe; and if he ſhall ſtill there offer to come in and vex you, and prevail againſt you, and to lodge his ſuggeſtions this or any other way with you, you have Law and Chriſt on your ſide, by this little light now given you, to caſt him out.</p>
+                  <p>
+                     <hi>Queſt.</hi> 3. The third thing that troubles you, is the diſ-ranking of the Perſons in the Trinity, for tho' you think the holy Ghoſt is God, yet you have not ſo high a repute of him, as of the Fa<g ref="char:EOLhyphen"/>ther and the Son, becauſe the Son ad<g ref="char:EOLhyphen"/>dreſſeth himſelf to God the Father in all his prayers and acknowledgmenrs, in a more immediate manner than un<g ref="char:EOLhyphen"/>to the holy Ghoſt, and therefore you would know if the word Father (as in the Lords Prayer) includes not the Unity in Trinity.</p>
+                  <p>To this briefly conſider three things.</p>
+                  <p n="1">1. Without all queſtion, the ſame God which lies under that rela<g ref="char:EOLhyphen"/>tive property of Father, is the ſame God with the God-head of the Son, and the God-head of the holy Ghoſt,
+<pb n="27" facs="tcp:175369:20"/> there being not three Gods? and there<g ref="char:EOLhyphen"/>fore the God-head of the Son and Spi<g ref="char:EOLhyphen"/>rit, are not excluded, but included in the God-head of the Father, when we look upon the Father as God, in the Lords Prayer, or any where elſe.</p>
+                  <p n="2">2. But ſecondly, the Father as Fa<g ref="char:EOLhyphen"/>ther, is never taken for the ſame ho<g ref="char:EOLhyphen"/>ly Ghoſt in Scripture, nor the Son as Son, is taken for the Father, nor the holy Ghoſt as holy Ghoſt, is at any time taken for the Son: For it is a rule in Theologie, tho' the <hi>res ſubſtrata,</hi> the thing that lies under the Rela<g ref="char:EOLhyphen"/>tive property <hi>(viz.</hi> the God-head) of every perſon, be common and com<g ref="char:EOLhyphen"/>municated, yet the ſame God-head conſidered as clothed with his Rela<g ref="char:EOLhyphen"/>tive property (as Father, Son and Spirit) it is not common, but peculiar. For the God-head of the Father as Fathet, is not the God-head of the Son as Son, &amp;c.</p>
+                  <p n="3">3. Hence it follows, that when Chriſt addreſſeth himſelf to the Father as Fa<g ref="char:EOLhyphen"/>ther in Scripture, it is not becauſe he is either a diverſe or greater God than the holy Ghoſt, but it is for two o<g ref="char:EOLhyphen"/>ther reaſons.</p>
+                  <p n="1">
+                     <pb n="28" facs="tcp:175369:21"/>1. Becauſe the Father as Father, received primarily the wrong that ſin did againſt his work of creation; for the Father being the firſt perſon in order &amp; creation, the firſt tranſcient act (as election and re<g ref="char:EOLhyphen"/>probation were the beſt immanent) hence this work is attributed chiefly to God the Father, in reſpect of our orderly apprehenſion; and hence man ſinning then when he was only made, this is chiefly attributed to be againſt the Father, becauſe his work appeared to be chiefly there, and not againſt the Son, for his work chiefly appears in redemption, he being the ſecond Perſon, and this the ſecond main and wonderful work, neither againſt the holy Ghoſt, for his work chiefly ap<g ref="char:EOLhyphen"/>pears to us in application, being the third Perſon, And this the third main act that ever God will do, or ſhow forth to the world in this life: hence God the Father receiving to our ap<g ref="char:EOLhyphen"/>prehenſion, the wrong in creation by ſin, he is the Perſon that is to be ſa<g ref="char:EOLhyphen"/>tisfied, and not the holy Ghoſt. And hence Jeſus Chriſt in all his prayers has a moſt ſpecial eye to him, and not to the holy Ghoſt (as holy Ghoſt)
+<pb n="29" facs="tcp:175369:21"/> becauſe he came into the world by his death, and interceſſion, and ſtrong cries to ſatisfie God the Father, and not God the holy Ghoſt as a third Perſon. And hence it is ſaid, 1 John 2. 1, 2. <hi>If any ſin, we have an Advocate with God the Father,</hi> (not God the holy Ghoſt) becauſe he was (to our apprehenſion) the Perſon wronged: and hence we are, after ſins commit<g ref="char:EOLhyphen"/>ted, chiefly to eye the Father in our prayers, and to go to him for pardon with our advocate with us, becauſe to whom offence is chiefly offered, from him chiefly pardon and recon<g ref="char:EOLhyphen"/>ciliation is to be expected.</p>
+                  <p n="1">2. Therefore Chriſt addreſſeth him<g ref="char:EOLhyphen"/>ſelf chiefly in his prayers to God the Father, becauſe he is the original and firſt cauſe of all good, becauſe he is the firſt Perſon in order of ſubſiſting, and therefore firſt too in the manner of con<g ref="char:EOLhyphen"/>veying. I know the God-head is the original of all good: but conſider the Perſons one with another, and ſo the Father is ever the firſt in operation, as the holy Ghoſt is the laſt in conſum<g ref="char:EOLhyphen"/>mation; for all good comes from the
+<pb n="30" facs="tcp:175369:22"/> Father, <hi>James</hi> 1. 17. through the Son by the holy Ghoſt. And hence in all our prayers we are to look for all good from the Father, for his Sons ſake, to be conveyed us by the holy Ghoſt: and hence it is ſaid, <hi>John 6. 10. No man comes to me but whom the Father draws:</hi> Why? It is the imme<g ref="char:EOLhyphen"/>diate office and work of the holy Ghoſt to draw and apply the ſoul unto Chriſt; why then is it ſaid, <hi>Unleſs the Father draw?</hi> The reaſon is, becauſe that which was perfected and conſumma<g ref="char:EOLhyphen"/>ted by the holy Ghoſt, was intentio<g ref="char:EOLhyphen"/>nally and by way of purpoſe and de<g ref="char:EOLhyphen"/>cree begun originally by the Father; &amp; this is that which Chriſts words have chiefly reference unto <hi>(viz.)</hi> the Father through the Son by the holy Ghoſt draws</p>
+                  <p>But I have waded too far in this Di<g ref="char:EOLhyphen"/>vinity, the clear knowledg of which is reſerved for us in heaven: But thus much to ſatisfie you. Yet the word Father in the Lords Prayer, I con<g ref="char:EOLhyphen"/>ceive under correction, as it doth not exclude any perſon of the God-head, ſo its chiefly ſet down there, not ſo much to denote the Perſon of the Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="31" facs="tcp:175369:22"/> as the affection of God as a Fa<g ref="char:EOLhyphen"/>ther to us his Sons by Chriſt, which we are to believe in our firſt approa<g ref="char:EOLhyphen"/>ching to our prayers, to be as, nay to tranſcend the affection of any Father to his Son: when we come to call upon him for thoſe ſix things which the Pe<g ref="char:EOLhyphen"/>titions ſet down for thoſe three ends, Kingdom, Power, and Glory, which the Prayer concludes withal.</p>
+                  <p>
+                     <hi>Queſt.</hi> 4. Your fourth trouble is your aptneſs to go to God immediately, e<g ref="char:EOLhyphen"/>ſpecially when his graces are moſt ſtri<g ref="char:EOLhyphen"/>ving in his ordinances, contrary to that of Chriſt, <hi>Ye believe in God, be<g ref="char:EOLhyphen"/>lieve alſo in me.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> So indeed it is uſual for re<g ref="char:EOLhyphen"/>ligious nature often to out-run and get the ſtart of grace; as it appears in many other, ſo in this caſe you put; look as it is with every man when God awakens him effectually, he firſt ſeeks to his kitchin phyſick to ſave himſelf by his duties, praying, <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> reforming, endeavouring, <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> working, before he will <gap reason="illegible" resp="#APEX" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to the Phyſician, and to Chriſt to ſave him. Becauſe it was natural to <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to ſeek to live by his working, it is
+<pb n="32" facs="tcp:175369:23"/> natural to every Son and branch of that root, to ſeek to ſave himſelf by doing as well as he can, or as God gives him the ſtrength and grace. So it is here. It was natural to <hi>Adam</hi> to depend upon, and go to God im<g ref="char:EOLhyphen"/>mediately, as a creature to a Crea<g ref="char:EOLhyphen"/>tor, as a Son to go nakedly to God as a Father: Chriſt was not then known nor ſeen: ſo it is natural to every man when rectified Nature is ſtirred up, to go immediately to God. It is grace in the ſecond Covenant that reveals and draws to Jeſus Chriſt, and to God by Chriſt, <hi>Heb.</hi> 7. 25.</p>
+                  <p>For cure of this diſtemper, ponder but theſe three things.</p>
+                  <p n="1">1. Clearly convince the ſoul that the immortal, inviſible, and moſt holy God, that dwelleth in an unapproach<g ref="char:EOLhyphen"/>able light, his ſet out himſelf to be ſeen, or made himſelf only viſible in Juſus Chriſt, ſo that he would have no man look upon him any other ways, then as he has revealed him<g ref="char:EOLhyphen"/>ſelf in his Son: In whom (tho' in all other creatures his <hi>veſtigia</hi> and foot<g ref="char:EOLhyphen"/>ſteps are to be ſeen) as he is God, the
+<pb n="33" facs="tcp:175369:23"/> face of God is to be ſeen, which no creature is able to behold, but there, being the brightneſs of his glory, and the expreſs Image of his Perſon, <hi>Heb.</hi> 1. 3. And as he is man, the very heart of God, both in reſpect of af<g ref="char:EOLhyphen"/>fection, and will to be ſeen; So that in and through Jeſus Chriſt, eſpecial<g ref="char:EOLhyphen"/>ly his human nature, the glory of the great God breaks out like the Sun through the clouds moſt brightly, in reſpect of us, and there<g ref="char:EOLhyphen"/>fore in and through his human na<g ref="char:EOLhyphen"/>ture we are only to behold God, in whom all that a Chriſtian deſires to know, is to be ſeen, which is the face and heart of ſo dear a friend. 2 <hi>Cor.</hi> 4. 6. <hi>Joh.</hi> 14. 9, 10. For we know by too lamentable experience, how the whole world vaniſhing in their ſmoaky thoughts of the glory of God, as he is conſidered in himſelf, and not able to conceive or retain the knowledg of him did hence invent and ſet up Images as fit objects for their drunken ſtag<g ref="char:EOLhyphen"/>gering underſtanding to faſten upon, &amp; to be limited with, and hence adored God before theſe, (as our Popiſh Hypo<g ref="char:EOLhyphen"/>crites
+<pb n="34" facs="tcp:175369:24"/> do before the Altar) and in theſe and at theſe as Papiſts do in reſpect of their Images. Hence the Lord to cure this inveterate natural malady; has in the ſecond Perſon, united himſelf to man Chriſt Jeſus, through whom we are both able to our everlaſting won<g ref="char:EOLhyphen"/>derment to ſee him, and alſo here bound only to behold him, who as he is a fi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> handle for our faith, ſo he is a fit object for our weak minds to behold the glory of the moſt high God in. Wherefore then do you offer to go unto God without Chriſt, when<g ref="char:EOLhyphen"/>as you are not ſo much as to look upon God, but as he appears in Chriſt? Is not the human nature of the Lord Jeſus more eaſie to be ſeen and con<g ref="char:EOLhyphen"/>ceived of, than the inviſible unlimi<g ref="char:EOLhyphen"/>ted eterual God-head.</p>
+                  <p n="2">2. Secondly, See evidently that there is not any dram or drop of God you have, eſpecially in Gods ordinan<g ref="char:EOLhyphen"/>ces, but it iſſues from the blood, and is purchaſed by the interceſſion, and delivered unto you by the hand of Je<g ref="char:EOLhyphen"/>ſus Chriſt. <hi>Epheſ.</hi> 1. 7. <hi>Hebr.</hi> 7. 25. <hi>John</hi> 5. 22. You ſhould never have
+<pb n="35" facs="tcp:175369:24"/> heard the ſound of the goſpel, nor ne<g ref="char:EOLhyphen"/>ver have had day of Patience, nor never have heard of Gods ordinan<g ref="char:EOLhyphen"/>ces to find him in, nor never have been comforted, quickned, enlarged, affected by Gods Ordinances, were it not for Jeſus Chriſt, the efficacy of whole blood, and power of whoſe glorious interceſſion, doth at the very inſtant you feel any good in Gods Or<g ref="char:EOLhyphen"/>dinances, prevail with God the Father for what you feel; for the Father loveth the Son, and <hi>has put all things into his bands, John</hi> 3. 3 5. that all men might ho<g ref="char:EOLhyphen"/>nour the Son: all the three Perſons plotting chiefly for the honour of the ſecond; ſo that you may ſee, may you are bound to believe, at the time you feel your heart ſavingly affected in any ordinance now, the Lord Jeſus, who is at the right hand of God in heaven, who is now in his glory, now be remembring me a poor worm on earth, now I feel the fruit of his death. O what a miſerable forlorn wretch had I been, were it not for Jeſus Chriſt? Mercy could never have helped, en<g ref="char:EOLhyphen"/>lightned, comforted, quickned, aſſu<g ref="char:EOLhyphen"/>red,
+<pb n="36" facs="tcp:175369:25"/> enlarged me, and Juſtice could never have relieved my dead, bloody, periſhing loſt Soul, had it not been for Jeſus Chriſt, whoſe Spirit, power, grace, comfort, preſence, ſweetneſs, I taſte, drink, and am ſatisfied abundantly with, and now do enjoy.</p>
+                  <p>Oh Sir, methinks the ſad medita<g ref="char:EOLhyphen"/>tion of this, ſhould make you in all Gods ordinances, where you are apt to ſay you go immediately to God, to haſten ſuddenly in your thoughts, af<g ref="char:EOLhyphen"/>fections, praiſes, to Jeſus Chriſt. Nay, methinks you ſhould ſpeedily have your heart clevated and lifted up to Jeſus Chriſt, and ſay, I receive this, and taſte this from Jeſus Chriſt. Oh, but this is but a taſte of the hony comb with the end of my nod, and if this preſence of Chriſt's Spirit I feel now be ſo ſweet, what is himſelf then?</p>
+                  <p n="3">3. Thirdly, Labour for increaſe of love &amp; familiarity with Jeſus Chriſt, by taking notice of him, by coming often to him, by muſing daily on his love, as on a freſh thing, by baniſhing ſlaviſh falſe fears of his forgetfulneſs of you, and want of e<g ref="char:EOLhyphen"/>verlaſting love towards you: and then
+<pb n="37" facs="tcp:175369:25"/> you know love will carry you ſpeedily to him: <hi>amor meus pondus meum:</hi> nay, grant that you have been a ſtranger to Chriſt, yet reſtore the love of Chriſt to life again in your Soul, and when you come to his ordinances, where he dwells, your Soul will make its firſt enquiry for him, neither will it be ſatisfied till it has ſeen him, as we do them we love, towards whom we have been greateſt ſtrangers.</p>
+                  <p>
+                     <hi>Queſt.</hi> 5. Your fifth trouble is, you know not how to apply abſolute pro<g ref="char:EOLhyphen"/>miſes to your ſelf, as in <hi>Heb.</hi> 8. becauſe they are made indefinitely without con<g ref="char:EOLhyphen"/>dition. Conditional promiſes you ſay you can, if you can find the qualifica<g ref="char:EOLhyphen"/>tion that gives you right to the good of the promiſe within you.</p>
+                  <p>
+                     <hi>Anſw.</hi> This uſeful fruitful que<g ref="char:EOLhyphen"/>ſtion, how to apply abſolute promi<g ref="char:EOLhyphen"/>ſes to ones particular, deſerves a lar<g ref="char:EOLhyphen"/>ger time and anſwer, than now in the midſt of perplexities, I am able, yet willing, to give. For when the Lord ſaith abſolutely without condition, that he will take away the ſtony heart, and he will put his fear into his peoples
+<pb n="38" facs="tcp:175369:26"/> hearts, &amp;c. and theſe kind of pro<g ref="char:EOLhyphen"/>miſes are made to ſome, not to all, to thoſe only whom the Lord will, and in general to his people. Hereupon the Souls of many Chriſtians, eſpe<g ref="char:EOLhyphen"/>cially ſuch as queſtion Gods love to<g ref="char:EOLhyphen"/>wards them, are moſt in ſuſpence: and therefore when they complain of the vileneſs of their hearts &amp; ſtrength of the luſts, let any man tell them that the Lord has undertaken in the Second co<g ref="char:EOLhyphen"/>venant, to heal their backſlidings, and to ſubdue their iniquities, they will hereupon reply, it is true, he has promiſed indeed to do thus for ſome abſolutely, tho' they have no good in them, but I that feel ſo vile a heart, ſo rebellious a nature, will he do this for me, or no? and thus the Soul floats above water, yet fears it ſhall ſink at laſt, notwithſtanding all that God has ſaid. I will anſwer therefore briefly theſe two things in general.</p>
+                  <p n="1">1. I ſhall ſhew you to what end and for what uſe and purpoſe Go has made abſolute promiſes, not on<g ref="char:EOLhyphen"/>ly to them that be for the preſent b<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> people, but to them that in reſpect
+<pb n="39" facs="tcp:175369:26"/> their eſtates and condition are not:</p>
+                  <p n="2">2. I ſhall ſhew you how every Chriſtian is to make uſe of them, and how and when he ought to apply them. For the firſt of theſe.</p>
+                  <p>1. Firſt, I conceive, that as in reſpect of God himſelf, there are many ends which I ſhall not mention, as being needleſs; ſo in reſpect of man, there are principally theſe two ends for which the Lord has made abſolute promi<g ref="char:EOLhyphen"/>ſes.</p>
+                  <p n="1">1. To raiſe up the Soul of a help<g ref="char:EOLhyphen"/>leſs, ſinful, curſed, loſt ſinner in his own eyes, to ſome hope (at leaſt) of mercy and help from the Lord. For thus uſu<g ref="char:EOLhyphen"/>ally every mans Soul is wrought, to whom the Lord doth intend grace and mercy: he firſt turns his eyes inward, and makes him to ſee he is ſtark naught, and that he has not one dram of grace in him, who thought himſelf rich, and wanting nothing before, and conſe<g ref="char:EOLhyphen"/>quently, that he is under the curſe and wrath of God for the preſent, and that if the Lord ſhould but ſtop his breath, and cover his face, and take him away, which he may eaſily do, and this to be
+<pb n="40" facs="tcp:175369:27"/> feared he will, that he is undon fore<g ref="char:EOLhyphen"/>ver. Hereupon the Soul is awakened &amp; falls to his kitchin phyſick, as I ſpake before, prays, and hears, and amends, and ſtrives to grow better, and to ſtop up every hole, &amp; to amend it ſelf of eve<g ref="char:EOLhyphen"/>ry ſin, but finding it ſelf to grow worſe and worſe, and perceiving thereby that he doth but ſtir, &amp; not cleanſe the pud<g ref="char:EOLhyphen"/>dle, and that it is not amending of nature that he muſt attain to, but he muſt be<g ref="char:EOLhyphen"/>lieve, and make a long arm to Heaven, and apprehend the Lord Jeſus, (which ſo few know, or ever ſhall enjoy) and here<g ref="char:EOLhyphen"/>by quench the wrath of God; I ſay, find<g ref="char:EOLhyphen"/>ing he cannot do thus, no, nor no means of themſelves can help him to this, here<g ref="char:EOLhyphen"/>upon he is for ſaken of all his ſelf-wiſdom and of all his vain hopes, and now ſits down like a deſolate widow, comfort<g ref="char:EOLhyphen"/>leſs, and ſorrowful, and thinks there is no way but death and hell, &amp; the wrath of a diſpleaſed God to be expected. And if any come and tell this Soul of Gods mercy and pity to ſinners, I, ſaith he, its true, he is even infinitely merciful unto them who are rent from their ſins and that can believe, but that I cannot
+<pb n="41" facs="tcp:175369:27"/> do; &amp; am ſure ſhall never be able for to do, &amp; therefore what cauſe have I but to lie down in my ſorrow, &amp; to expect my fatal ſtroke every moment? Reply again upon this Soul, &amp; tell him, that tho' he cannot believe, or looſen his heart from ſin, yet that the Lord has promiſed to do it, that he will ſubdue all his iniqui<g ref="char:EOLhyphen"/>ty, and he will pardon all his ſin, and that he will cauſe men to walk in his ways, &amp;c. True, ſaith the Soul again, he will do thus for his own people, and for them he has choſen, but I ne<g ref="char:EOLhyphen"/>ver had dram of grace in my heart, and there is no evidence that the Lord is mine own, or that I am his: Here again the Soul lies down, until the Lord diſcovers to the Soul that he will do theſe things for ſome that have no grace, or never had grace; for theſe promiſes were made to ſuch.</p>
+                  <p>Hereupon the Soul thinks thus: theſe promiſes are made for ſome that are filthy; for why ſhould God pour clean water upon them? for ſome that be hard<g ref="char:EOLhyphen"/>hearted, for why ſhould he promiſe to take away the ſtony heart from them? &amp;c. and if unto ſome ſuch, and I be<g ref="char:EOLhyphen"/>ing
+<pb n="42" facs="tcp:175369:28"/> ſuch a one, why may not the Lord poſſibly intend and include me, ſeeing he has not by his promiſe ex<g ref="char:EOLhyphen"/>cluded nor ſhut me out? Indeed I dare not ſay he will, but yet how do I, or men, or Angels know, but yet I may be one? Hereupon Hope is rai<g ref="char:EOLhyphen"/>ſed to life again; ſeeing God has un<g ref="char:EOLhyphen"/>dertaken the work for the vileſt, it is poſſible he may do it for me, now when I am vile and can do nothing for my ſelf. And thus you may ſee the firſt end and uſe of abſolute pro<g ref="char:EOLhyphen"/>miſes, to be as it were, twiggs to uphold the ſinking Spirits of hopeleſs, helpleſs, diſtreſſed Souls.</p>
+                  <p n="2">2. The Second end and Uſe of them is this. To create and draw out faith in Jeſus Chriſt in the promiſes. For as the Law begets terror, ſo the pro<g ref="char:EOLhyphen"/>miſes beget Faith. Now no conditio<g ref="char:EOLhyphen"/>nal promiſe firſtly begets Faith, be<g ref="char:EOLhyphen"/>cauſe he that is under any condition of the Goſpel, in that man there is a pre<g ref="char:EOLhyphen"/>ſuppoſed faith. Its Gods abſolute pro<g ref="char:EOLhyphen"/>miſe that firſtly begets faith; for faith is not aſſurance, but the com<g ref="char:EOLhyphen"/>ing of the whole Soul to Chriſt in a promiſe, <hi>John</hi> 6. 3 5. And then the Soul
+<pb n="43" facs="tcp:175369:28"/> believes in Chriſt, when it comes to Chriſt: now this God works in the Go<g ref="char:EOLhyphen"/>ſpel. 1. The Soul is raiſed up by hope. And being raiſed, it Secondly comes to Chriſt, which is faith, by vehe<g ref="char:EOLhyphen"/>ment unutterable deſire. And being come to him, it 3. Embraceth Chriſt by love, and thus the match is made, and the everlaſting knot is tied.</p>
+                  <p>Now as you have heard, the abſo<g ref="char:EOLhyphen"/>lute promiſe works hope of relief from Chriſt: and if it works hope, it alſo works a deſire, or coming to Chriſt by deſire. Oh! that thou Lord wouldſt honour thy grace, thy power, thy love, thy promiſe, in helping me a poor caſt-away. And thus faith is created (as it were) by this abſolute promiſe: for it cannot but move the heart of any one that ever felt his want, to cry mightily to the Lord for help, if he has any hope, ſeeing the Lord has promiſed to do it for ſome. Oh ſaith the Soul, that thou wouldſt do it for me: And ſurely, were it not for this abſolute promiſe of God, no Soul would deſire, becauſe he would have <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o hope to be ſaved, or to ſeek for any
+<pb n="44" facs="tcp:175369:29"/> thing as from the hands of God. And thus you ſee to what end God makes, and to what uſe a Chriſtian may put theſe abſolute promiſes.</p>
+                  <p>2. For the ſecond thing <hi>(viz)</hi> How and <note place="margin">How to apply Abſolute Promiſes.</note> when a Chriſtian may apply theſe promiſes.</p>
+                  <p>I anſwer, every Chriſti<g ref="char:EOLhyphen"/>an is either,</p>
+                  <p n="1">1. Within Covenant with God, and knows it: or</p>
+                  <p n="2">2. Within covenant with God, and knows it not: or</p>
+                  <p n="3">3. Out of covenant indeed, for his preſent eſtate and condition, yet he is <hi>in fieri,</hi> or making towards it.</p>
+                  <p n="1">1. If he be in Covenant, and knows it, then you may eaſily perceive how and when he ought to apply promiſes unto himſelf; for he may boldly con<g ref="char:EOLhyphen"/>clude, If God be his God, then all the promiſes of God ſhall be made good unto him; if he be a Son of God, he may boldly challengeatall times at the hands of God, (nay, if in ſome reſpects, at the hands of Juſtice it ſelf) the fulfilling o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God the Fathers will delivered in the ſe<g ref="char:EOLhyphen"/>veral
+<pb n="45" facs="tcp:175369:29"/> Legacies of the promiſe bought by the blood, &amp; ſealed by the ſame blood of Jeſus Chriſt, that they may and ſhall be made good unto him that is clear.</p>
+                  <p n="2">2. Secondly, If he be in Covenant, and knows it not, and queſtions hence whether God is his or not, and conſe<g ref="char:EOLhyphen"/>quently, whether the promiſes belong unto him: then the rule is to be obſer<g ref="char:EOLhyphen"/>ved, let him ſo ſue and ſeek for the good of the abſolute promiſe, until by reflecting upon his own acts, herein he perceive himſelf adorned and digni<g ref="char:EOLhyphen"/>fied with the qualification of ſome con<g ref="char:EOLhyphen"/>ditional promiſe, and then if he can find the condition or qualification with<g ref="char:EOLhyphen"/>in himſelf, then as you judge and write, he may conclude, that the conditional promiſe belongs to him, &amp; if one pro<g ref="char:EOLhyphen"/>miſe, then all Gods promiſes, and there<g ref="char:EOLhyphen"/>fore that abſolute promiſes are his own, becauſe at leaſt one condional promiſe is For no unregenerate man is within the compaſs of any one conditional promiſe of grace, unleſs you will ſay he is under the everlaſting love of God, the promi<g ref="char:EOLhyphen"/>ſes of grace being but the mid-way be<g ref="char:EOLhyphen"/>tween the eternal purpoſe and decree
+<pb n="46" facs="tcp:175369:30"/> of love, and the glorious certain exe<g ref="char:EOLhyphen"/>cution of that love in time. The pro<g ref="char:EOLhyphen"/>miſe being the break day of Gods moſt glorious love, which muſt ſhine out in time.</p>
+                  <p>
+                     <hi>Object.</hi> But here you will ſay is the difficulty, <hi>viz.</hi> how I ſhould ſo ſeek for the good of abſolute promiſes, as therein to find may ſelf within the com<g ref="char:EOLhyphen"/>paſs of ſome conditional one.</p>
+                  <p>I anſwer, It is done chiefly by three acts.</p>
+                  <p n="1">1. By being humbly contented, that ſeeing the Lord has abſolutely promi<g ref="char:EOLhyphen"/>ſed, to work and do all for the Soul he intends for to ſave, even when it can do nothing for it ſelf, and that he has taken the work into his own hands, ſo that it is his promiſe, of<g ref="char:EOLhyphen"/>fer, office and honour to do all, that therefore you lie down, not ſluggiſh<g ref="char:EOLhyphen"/>ly, but humbly at the feet of God, and contented to have him to be your God, and for ever to be diſpoſed of in any thing by God, if he will ful<g ref="char:EOLhyphen"/>fil his covenant in you, contented to part with any ſin, if he will rend it from you; contented to know any truth,
+<pb n="47" facs="tcp:175369:30"/> if he will reveal it to you; contented to do any duty, if he will enable you; contented to ſhine bright with all his glorious graces, if he will create and maintain them in you; contented to bear any evil, if he will lay his hand under your head, and thereunto ſtreng<g ref="char:EOLhyphen"/>then you; and ſo ſeeing the Lord pro<g ref="char:EOLhyphen"/>miſed to undertake the work for ſome, put out the work, and put over your Soul to him, that he would fulfil the good that his covenant promiſeth in your ſelf. Now when you do thus, which (no queſtion) you and many a Soul doth, many times reflect upon this act, and ſee if you cannot or may not find your ſelf by it under the con<g ref="char:EOLhyphen"/>dition of ſome conditional promiſe, and if you do, then are you bound to believe all Gods promiſes are and will be <hi>Yea</hi> and <hi>Amen</hi> unto you. Now that you do ſo by this act, it ſelf ſpeaks plainly; for how many conditional pro<g ref="char:EOLhyphen"/>miſes are made to the meek? <hi>Bleſſed are the meek, Mat.</hi> 5. and to the hum<g ref="char:EOLhyphen"/>ble, whom God will raiſe up. For this is not ſaving meekneſs, to be quiet<g ref="char:EOLhyphen"/>ly
+<pb n="48" facs="tcp:175369:31"/> contented to be, or to do, or to bear any thing that the Lord will have me from mine own ſtrength and feel<g ref="char:EOLhyphen"/>ing; but to be, to do, or to bear a<g ref="char:EOLhyphen"/>ny thing that the Lord will have me, if the Lord enable me. Many a ſtout heart would gladly have Chriſt, but if he cannot have him in his own terms, <hi>viz.</hi> Chriſt and his luſts, Chriſt and the world too, or by his own ſtrength and power; he will have none of him, but deſperately caſts him away, and ſaith, what ſhall I look after him a<g ref="char:EOLhyphen"/>ny more? I cannot pray, I cannot believe, I cannot break this vile and unruly will, this ſtony adamant hearr, thus the pride of a mans heart works. Now he that is truly meekned and hum<g ref="char:EOLhyphen"/>bled, he is contented gladly to have God his God, and Chriſt his Re<g ref="char:EOLhyphen"/>deemer, and that upon Jeſus Chriſt, his own terms. Firſt, on his own covenant; now what is that? why it is this, I will give you the good, and work in you the condition to; I will give you my ſelf, and therefore will not ſtick to give you an eye to ſee, and a heart to receive too. This is the
+<pb n="49" facs="tcp:175369:31"/> covenant; now hereupon a humbled Soul accepts of Chriſt according to his covenant, on his own terms thus, <hi>viz.</hi> Upon that condition Lord, that thou wilt humble me, teach me, per<g ref="char:EOLhyphen"/>ſwade me, cauſe me to believe, and in every thing to honour thee; Lord, I am contented gladly and joyfully to have thee; do therefore what thou wilt with me. Juſt as a ſick man tells his Phyſician, who comes not to him on theſe terms, If you will make your ſelf half whole, then I will cure you, and do the reſt for you; but being utterly unable to cure, or to know how to cure himſelf, he tells his Phy<g ref="char:EOLhyphen"/>ſician, I am content you ſhould be<g ref="char:EOLhyphen"/>gin and perfect the cure, and ſo ho<g ref="char:EOLhyphen"/>nour your skill and love in me, to be contented to take any thing if you will give it me, and if I offer to reſiſt that, you ſhould bind me, and ſo do any thing with me.</p>
+                  <p n="2">2. The ſecond act is, earneſtly to long and come to Chriſt, to cleave unto Jeſus Chriſt by fervent and ar<g ref="char:EOLhyphen"/>dent deſire, that he would make good thoſe abſolute promiſes to you, ſee<g ref="char:EOLhyphen"/>ing
+<pb n="50" facs="tcp:175369:32"/> that they are made to ſome, and that they do not exclude you; for when you ponder well, and ſee what wonderful great things the Lord promiſeth to ſome, whoſe heart can<g ref="char:EOLhyphen"/>not but be ſtirred up to ſay, as that woman in another caſe, <hi>Lord, give me of that water to drink?</hi> and as they in the fifth of John, <hi>Lord ever<g ref="char:EOLhyphen"/>more give us that bread.</hi> Now doing this, reflect upon this Second act, and ſee if unto it no conditional promiſe belongs, and you ſhall find an affir<g ref="char:EOLhyphen"/>mative anſwer from the word. For what is this longing afte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the good, not of ſome (which many hypo<g ref="char:EOLhyphen"/>crites do) but of all the promiſes, but that which the Scripture calls thirſt<g ref="char:EOLhyphen"/>ing, who are commanded to <hi>come &amp; drink of the waters of life freely,</hi> Iſa. 55. 1, 2. and hungring, to which all good things are promiſed, <hi>Mat.</hi> 5. 6. and which coming to Chriſt (as I ſpake e<g ref="char:EOLhyphen"/>ven now) who has given this as the firſt fruit of eternal election, and which kind of people he will never caſt away, <hi>John</hi> 6. 37. Now when you ſee theſe promiſes belonging unto you, why
+<pb n="51" facs="tcp:175369:32"/> dare you not conclude but that all theſe abſolute ones are yours alſo.</p>
+                  <p n="3">3. The third act is this, Seeing God hath promiſed abſolutely ſuch good things in the Second Covenant, but hath not ſet down the time when, or how much grace he will give; and ſee<g ref="char:EOLhyphen"/>ing only he can help, therefore look up, and wait upon the Lord in the uſe of all known means, until he makes good what he hath promiſed to do, and perform, and work for you. Say as beggars that have but one door to go to for bread, if none hear, or hearing help not, lay themſelves down at the door, and ſay, I will wait here, I am ſure I periſh if I go away, or quarrel with them in the houſe, be<g ref="char:EOLhyphen"/>cauſe they help me not ſo ſoon as I would, and therefore <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> will wait, for it may be their compaſſions may move them as they paſs by to help me. So do you, Many a Soul comes and longs for the good of the Promiſes, but if the Lord do not ſpeedily help him, he goes with diſcouragements, fears, and diſcontents, or deſpair, or ſin away, and ſaith one of theſe two
+<pb n="52" facs="tcp:175369:33"/> things, either I ſhall never have help, or I come not truly, and hence I feel no help. Oh remember that bread is only to be had at the door, to be di<g ref="char:EOLhyphen"/>ſtributed when the Lord ſeeth need, not when we would, or think we have need, and therefore wait here and ſay, if I periſh here, I will, at the feet of God, and at the feet of the promiſes and covenant of God, &amp;c.</p>
+                  <p>Now reflect upon this act, and ſee if you may not find ſome conditio<g ref="char:EOLhyphen"/>nal promiſe annexed unto it, which ſurely you may, and I will name you but two, <hi>Iſa.</hi> 40. 29, 30, 31. &amp; <hi>Iſa.</hi> 64. 4. and if the conditional promiſe belongs to ſuch a Soul, you may eaſily conclude the abſolute promiſes are your own, and the chiefeſt uſe you are to make of them when you know them that they are your own, is to preſs God to make them good daily to you: and to believe as verily and really, as if you had the performance of them, that they ſhall. It may be you will ask me, how ſhall I know whether I have theſe conditions truly in me? I anſwer, ſincerity is a very witneſſing
+<pb n="53" facs="tcp:175369:33"/> grace, the frequent meditation of the Scripture will give you much light, to judge of the ſincerity of them, and that which Saint <hi>Paul</hi> ſpeaks, 1 Cor. 2. 12. I ſay unto you, <hi>We have not re<g ref="char:EOLhyphen"/>ceived the ſpirit of the World, but of God, whereby we know,</hi> (or may know) <hi>the things that are freely given to us of God.</hi>
+                  </p>
+                  <p>3. Thirdly, If he be out of the co<g ref="char:EOLhyphen"/>venant, but yet God begins to work with ſome common work of his grace upon him: all that I would ſay to him, and all the uſe he can make of ſuch ab<g ref="char:EOLhyphen"/>ſolute promiſes, conſiſts in theſe things.</p>
+                  <p n="1">1. Let him conſider the freeneſs of God's promiſe, whereby he may be ſtir<g ref="char:EOLhyphen"/>red up to conceive ſome hope it may be made good to him in time. For the pro<g ref="char:EOLhyphen"/>miſe is very free &amp; large, excluding none (except thoſe that ſin unpardonably) be their ſins and natures never ſo vile before God, and yet not including a<g ref="char:EOLhyphen"/>ny by name, for that is in the condi<g ref="char:EOLhyphen"/>tional promiſe: and hence ſuch an one is to make this uſe of it, who knows but the Lord may have pity upon me in time; and ſo hang thy hope upon him.</p>
+                  <p n="2">
+                     <pb n="54" facs="tcp:175369:34"/>2. Let him conſider the worth and price of Gods promiſe bought by blood, and for which ſome men would give a thouſand worlds for the benefit &amp; comfort of; and hereby raiſe up his heart, as by the freeneſs of it to hope, ſo by the price of it to eſteem of the thing promiſed, above pearls, and all the honour and pomp of the world.</p>
+                  <p n="3">3. Let him conſider the fulneſs of the promiſe, which is a plaiſter as big as his fo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, juſt anſwerable to all his wants, nay infinitely more large than his wants And ſurely theſe three things will draw his heart to long for the promiſe, and then you know what is conditionally promiſed and bequeathed to them that thirſt: For ſimilitude is the ground of love. Now when the fulneſs of the Promiſe is ſeen, there will appear ſuch a ſuteableneſs and fitneſs of the promiſe to his ſoul, that he cannot but long for it, thus much for the fifth trouble.</p>
+                  <p>
+                     <hi>Queſt.</hi> Your ſixth trouble ſet down in two heads, put into one for bre<g ref="char:EOLhyphen"/>vity, <hi>viz.</hi> ſecret unwillingneſs to ſeek God in the ſtricteſt ſolemn ſervices,
+<pb n="55" facs="tcp:175369:34"/> before you enter into them; weari<g ref="char:EOLhyphen"/>neſs of them while they laſt; and glad when they are gone: the reaſons which you mention are, partly fear of not uſing them aright, together with me<g ref="char:EOLhyphen"/>lancholy, &amp; laſtly, the ſtrictneſs of them.</p>
+                  <p>
+                     <hi>Anſw.</hi> It is very true, there is abun<g ref="char:EOLhyphen"/>dance of wildneſs in our hearts, which naturally ſeek to have their liberty a<g ref="char:EOLhyphen"/>broad, and cannot endure to be pent in the narrow room of holy perfor<g ref="char:EOLhyphen"/>mances, extraordinary duties, &amp;c. no more than children can be pent up from their play. And hence it is weary of them, and glad to think of their depar<g ref="char:EOLhyphen"/>tures and ends. And truly it is one of the moſt grievous miſeries that a holy heart can feel, and I beſeech the Lord of heaven and earth to keep you, and me, and all his for ever, while we are here in our valley, under the ſenſe of ſuch diſtempers as our greateſt miſery. And therefore me thought it was a ſolemn ſweet ſpeech of an ho<g ref="char:EOLhyphen"/>neſt man to his friend, who ſeeing him oppreſſed with ſuch diſtempers as you mention, and perceiving him to droop under them, he came chear<g ref="char:EOLhyphen"/>fully
+<pb n="56" facs="tcp:175369:35"/> to him, and ſuddenly ſaid unto him, I can tell you good news, the beſt that ever you heard, <hi>viz.</hi> Aſſoon as ever you are in Heaven, you ſhall ſerve Chriſt without wearineſs: Which words well thought on, revived the man. That which I would ſpeak with as much ten<g ref="char:EOLhyphen"/>derneſs of compaſſion as I am able to you, I refer to theſe things.</p>
+                  <p n="1">1. That a child of God is never uſually weary of the duty, but rather of his vile heart, to think of, &amp; to look upon, that in the duty <hi>Chriſt's yoke is eaſie, and his bur<g ref="char:EOLhyphen"/>then light,</hi> to him that takes it on his neck and puts his Soul under it. The duty na<g ref="char:EOLhyphen"/>kedly conſidered in it ſelf, is glori<g ref="char:EOLhyphen"/>ous in his eyes, and ſweet to his Soul, and hence ſometimes never well, but when he conſiders his dead, blind, barren, and ſenſeleſs heart that he is to carry to the duty, and that he fears, and has felt will abide with him in the duty: Oh! this grieves, here the Soul pincheth. An Hypocrite is wea<g ref="char:EOLhyphen"/>ry of the duty, a child of God rejoy<g ref="char:EOLhyphen"/>ceth in it, but he is weary of his ſin, and unſavourineſs and wearineſs in the duty. I perſwade my ſelf Sir, that you
+<pb n="57" facs="tcp:175369:35"/> may ſoon miſtake your ſpirit herein: you think you are unwilling to come to the duty; and are weary of it, when indeed, it is your glory, joy, and love; but it is becauſe you fear you can do it no better, that troubles you, that you have ſuch a vile heart in it. And if your trouble be from hence, the good Lord increaſe ir in you daily; and with<g ref="char:EOLhyphen"/>al, bleſs the Lord, and ſay, Lord, tho' I am weary of my vile heart, in theſe days of humiliation, in theſe Sabbaths, yet I hleſs thee; the days and duties themſelves thou knoweſt are dear un<g ref="char:EOLhyphen"/>to me, It is not Lord becauſe I am weary of thy word, but becauſe I can do it no better, I am weary of my ſelf, and this vile heart; here is much love in ſuch a ſpirit to the Lord. And believe it, Sir, your love wants not its recompences, and remember that the Lord reſpects you not according to your duties done, but according to your love in them, &amp; to them. And therefore thoſe duties you are aſhamed to own, the Lord will not be aſhamed to crown.</p>
+                  <p n="2">2. Conſider you muſt and ſhall be baited with theſe diſtempers of heart,
+<pb n="58" facs="tcp:175369:36"/> ſometimes more, and ſometimes leſs, as long as you live, It is part of <hi>Pauls</hi> body of death which he muſt carry with him, till he come to bury him<g ref="char:EOLhyphen"/>ſelf.</p>
+                  <p n="3">3. Thoſe means which may help you to be freed from them (a little at leaſt) are theſe among many.</p>
+                  <p n="1">1. Be but truly and really, not by fits and darkly, ſenſible of them, men in deep miſeries, are not unwilling to be helped out.</p>
+                  <p n="2">2. Judge ye not rigorouſly of God, altho' he were a bloody auſtere God, as he did of his maſter, whoſe talent he had, and hence never improved it; but look upon God as having a Fathers heart and affection towards you in the meaneſt &amp; greateſt performances; which is double, either to give you ſtrength to do what you cannot <hi>(I can do all things through Chriſt)</hi> or having come to him for it, to accept of what you would do for him, as if it were done; and this will make you joy in the poo<g ref="char:EOLhyphen"/>reſt performance, that tho' it be never ſo full of vileneſs, yet the Lord out of his fatherly love, accepts of it as glorious.</p>
+                  <pb n="59" facs="tcp:175369:36"/>
+                  <p>3. Renew morning and evening by ſad and ſolemn meditation, the ſenſe of Gods love to you in Chriſt, and in every duty that he ſets you a<g ref="char:EOLhyphen"/>bout, and love will love and like the yoke, and make the commandments that they ſhall not be grievous to you.</p>
+                  <p>Thus I have briefly done with your new troubles which you menti<g ref="char:EOLhyphen"/>on, you ſay, becauſe you may not have the like opportunity of writing again. It may be ſo, and therefore I have deſired to ſatisfie you, which I beſeech the Lord himſelf to do.</p>
+                  <p>Next you come to reply to my firſt Letter, of which I have kept no copy. as I never did of any, and hence may and do forget what I writ then un<g ref="char:EOLhyphen"/>to. So much light as your Letter lends me to bring things to mind, I will gladly take, and be more brief in an<g ref="char:EOLhyphen"/>ſwer.</p>
+                  <p>
+                     <hi>Queſt.</hi> 1. You find the ſtrength of grace to be got in you rather by ar<g ref="char:EOLhyphen"/>gumentation, then inward communi<g ref="char:EOLhyphen"/>cation and influence ariſing from the
+<pb n="60" facs="tcp:175369:37"/> union to Chriſt. And this troubles you.</p>
+                  <p>
+                     <hi>Anſw.</hi> To which I anſwer theſe three things.</p>
+                  <p n="1">1. That as the old ſinful nature is communicated from <hi>Adam</hi> the firſt to us, without any argumentation; ſo the new nature, which is the ſeed, foundation, and plot of all grace, is diffuſed into us by the ſecond <hi>Adam</hi> when we are united to him, without argumentation. It is only by divine operation. The Lord leave not me, nor any friend I have, to a naked Ar<g ref="char:EOLhyphen"/>minian illumination and Perſwa<g ref="char:EOLhyphen"/>ſion.</p>
+                  <p n="2">2. That to the increaſe of thoſe ha<g ref="char:EOLhyphen"/>bits, and drawing out the acts of the new creature, the Lord is pleaſed to uſe moral and rational perſwaſions; as in the inſtance you gave, Chriſt died for us, then hence the love of Chriſt conſtrains: but remember withal, it is not the bare meditation, or ſtrength of reaſon or perſwaſion, that elicits ſuch divine and noble acts in the heart and affection, but it is the blood of Chriſt ſprinkling theſe ſerious medita<g ref="char:EOLhyphen"/>tions, that makes them work ſuch graces
+<pb n="61" facs="tcp:175369:37"/> in the Soul; which I might ſhew at large, which blood is the ſalve, tho' argumen<g ref="char:EOLhyphen"/>tation is the cloth or leather to which it ſticks, &amp; by which it is applied; but from ſuch leather comes no vertue, all of it is from the blood of Chriſt, which by argumentation heals the Soul. For if it were nakedly in the argumentation to ſtir your heart, and to work ſtrength of grace, what ſhould be the reaſon that ſometimes you are no more mo<g ref="char:EOLhyphen"/>ved by all your argumentations, than a mountain of braſs is by the winds? why ſhould the ſame truth affect you at one time, and not at another, when you are as filthily diſpoſed to be affected as at the firſt? Therefore conſider it is not your reaſon and argumentation, but Chriſt's blood that doth all, by as admirable, and yet ſecret operation.</p>
+                  <p n="3">3. Your union to Chriſt on your part is begun, and partly wrought by the underſtanding, and hence the good that you get by it at any time, it is from your union, or part of it at leſt.</p>
+                  <p>
+                     <hi>Queſt.</hi> 2. Again you ask me, whe<g ref="char:EOLhyphen"/>ther <hi>Calvin</hi> doth not expreſs fully my
+<pb n="62" facs="tcp:175369:38"/> thoughts about our Spirituall union, in his <hi>lib. 4. cap.</hi> 17.</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, I have forgot what he has writ, and my ſelf have read long ſince out of him, and for the preſent I have no books about me where I am, and therefore cannot ſatisfie you in this, neither know I when I ſhall ſeek to find out the book and place; If I have leiſure, I will either write to you, or tell ſome of your friends before I am gone, what he hath ſaid or writ that way, &amp;c.</p>
+                  <p>
+                     <hi>Queſt.</hi> 3. Again thirdly, You de<g ref="char:EOLhyphen"/>ſire me to tell you how my ſelf came to the cure of Atheiſtical Thoughts, and whether they did wear out, or whether they were rationally over<g ref="char:EOLhyphen"/>thrown.</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer, at firſt they did wear out, meeting with fruitleſs and dead-hearted company, which was at the Univerſity.</p>
+                  <p>2. The Lord awakened me again, and bid me beware leſt an old ſore broke out again: and this I found that ſtrength of reaſon would commonly
+<pb n="63" facs="tcp:175369:38"/> convince my underſtanding that there was a God, but I felt it utterly inſuf<g ref="char:EOLhyphen"/>ficient to perſwade my will of it un<g ref="char:EOLhyphen"/>leſs it was by fits, whenas I thought Gods Spirit moved upon the Chaos of thoſe horrible thoughts; and this I think will be found a truth.</p>
+                  <p>3. I did groan under the bondage of thoſe unbelieving thoughts, looking up, and ſighing to the Lord, that if he were as his works and word de<g ref="char:EOLhyphen"/>clared him to be, he would be pleaſed to reveal himſelf by his own beams, and perſwade my Heart by his own Spirit of his Eſſence and Being, which if he would do, I ſhold account it the greateſt mercy that ever he ſhewed me. And after grievous and heavy perplexities, when I was by them al<g ref="char:EOLhyphen"/>moſt forced to make an end of my ſelf and ſinful life, and to be mine own Executioner, the Lord came between the bridge and the water, and ſet me out of anguiſh of ſpirit, (as ſhe prayed for a child) to pray unto him for light in the midſt of ſo great darkneſs; In which time he revealed himſelf, ma<g ref="char:EOLhyphen"/>nifeſted his love, ſtilled all thoſe raging
+<pb n="64" facs="tcp:175369:39"/> thoughts, gave return in great mea<g ref="char:EOLhyphen"/>ſure of them; ſo that tho' I could not read the Scripture without blaſphe<g ref="char:EOLhyphen"/>mous thoughts before, now I ſaw a glory, a majeſty, a myſtery, a deprh in it, which fully perſwaded, and which light (I deſire to ſpeak it to the glory of his free grace, ſeeing you call me to it) is not wholly put out, but remains while I deſire to walk cloſely with him, unto this day. And thus the Lord opened mine eyes, and cured me of this miſery; and if any ſuch baſe thoughts come (like Beggars to my door) to my mind, and put theſe ſcrupies to me, I uſe to ſend them a<g ref="char:EOLhyphen"/>way with this anſwer, Why ſhall I queſtion that Truth, which I have both known and ſeen.</p>
+                  <p>
+                     <hi>Object</hi> But you ſay this remedy is good, <hi>viz.</hi> of prayer, but that you cannot uſe it, eſpecially becauſe you queſtion the truth of God.</p>
+                  <p>
+                     <hi>Anſw.</hi> Yet (dear Sir,) give not over this Trade, you will doubtleſs find it gain<g ref="char:EOLhyphen"/>ful, when it may be God hath laden you more with theſe thoughts, and made you loath your ſelf for them.
+<pb n="65" facs="tcp:175369:39"/> But the thing ſeems ſtrange to me, if I miſtake you not, <hi>viz.</hi> that your heart will not be perſwaded, but that you muſt reſolve your doubts concerning the perfection of Scripture, not by ſeeking to harmonize thoſe paſſages that ſeem to croſs one another, but by aſcribing ſome humanity or error, (if I may interpret you) to the pen<g ref="char:EOLhyphen"/>men, ſeeing St. <hi>Paul</hi> ſaith, <hi>We pro<g ref="char:EOLhyphen"/>pheſie but in part,</hi> and ſeeing one of the Evangeliſts leaves out the doxology in the Lords prayer.</p>
+                  <p>Sir, if you can take theſe thoughts, a<g ref="char:EOLhyphen"/>riſing from theſe &amp; the like grounds, as your burden, I do not blame you, but pity you in that reſpect; but if your judgment indeed think ſo, I am ſorry you ſhould harbour ſuch thoughts one hour within doors: for you know that holy men writ the Scriptures (but ſo far they might err, but it is added) as they were inſpired, or (as the Ori<g ref="char:EOLhyphen"/>ginal has it) as they were moved or carried in the arms of the holy Ghoſt, and ſo how could they err? how could God lie? It is true, <hi>Paul</hi> did prophe<g ref="char:EOLhyphen"/>ſie but in part, and is this an argu<g ref="char:EOLhyphen"/>ment,
+<pb n="66" facs="tcp:175369:40"/> becauſe he did not propheſie fully, therefore in ſome things he did not propheſie truly; I am perſwaded you will ſay there are many things my poor thoughts have ſuggeſted to you, as true; and yet I am perſwaded I do in them propheſie (if I may ſo ſay) but in part. The Spirit of God dire<g ref="char:EOLhyphen"/>cted the four Evangeliſts to write, yet ſo, as they did not all write what a<g ref="char:EOLhyphen"/>nother writ, but in great wiſdom left ſome things doubtful, and ſhort in one, which are more clear and full in another: and hence the Doxologie is fully ſet down in one, and not in a<g ref="char:EOLhyphen"/>nother, and many reaſons I could ſet you down why, but that it is need<g ref="char:EOLhyphen"/>leſs: I grant you ought not to put up all with a charitable opinion of Scrip<g ref="char:EOLhyphen"/>ture, but if you can, by reaſon, rea<g ref="char:EOLhyphen"/>ding, and comparing, help your heart to a full perſwaſion, this is Scripture: but many things you cannot get ſa<g ref="char:EOLhyphen"/>tisfaction for, by that way and means, but ſtill your Spirit will be left dark and doubtful; What courſe will you here take for reſolution, which is Scripture? The Papiſts ſay it is ſo, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="67" facs="tcp:175369:40"/> the Church has chriſtened it for Scripture; you ſay you will ſee rea<g ref="char:EOLhyphen"/>ſon for it that it is ſo, or elſe you can<g ref="char:EOLhyphen"/>not be ſatisfied, then I fear you will never be ſarisfied. (I think) In this caſe therefore theſe two things you are to do.</p>
+                  <p>1. To go to God by prayer, to give you a reſolution of all your doubts, and by ſome means or other, ſome light to ſee whether this is his word or not. Secondly, if this be his word, then he would perſwade your heart of it, that it is ſo: For the leaſt reſolu<g ref="char:EOLhyphen"/>tion which is Scripture, and which is not, is made by the ſame perſwaſion, and ſole perſwaſion of the ſame Spi<g ref="char:EOLhyphen"/>rit that writ the Scripture. Concer<g ref="char:EOLhyphen"/>ning the Angels that appeared to <hi>Mary,</hi> ſee <hi>Gerard,</hi> and he briefly, (I think) will ſatisfie you, in your anſwer to the particular ſcurples about the Scrip<g ref="char:EOLhyphen"/>ture ſenſe, and the diſſonancy of them. Only this I will add to the laſt clauſe about theſe things, that if the Scrip<g ref="char:EOLhyphen"/>ture be inſpired by the holy Ghoſt, &amp; that not in the ſum and ſubſtance of it, but to every word and ſentence of
+<pb n="68" facs="tcp:175369:41"/> it, which I think you will not doubt of, when you have conſidered it; then I think it will undeniably follow, that the ſame Spirit of truth is alſo a Spi<g ref="char:EOLhyphen"/>rit of order, and hence the method of various penning of it, is from the Spirit too, which you ſay you ſtick at.</p>
+                  <p>
+                     <hi>Anſw.</hi> 2. Again, to your third thing, concerning your ſpirit being burthened with involuntary infirmities, as bur<g ref="char:EOLhyphen"/>dens, but not as ſins. I ſay nothing now, becauſe I preceive by one part of your reply that the Lord has done you ſome good by the firſt anſwer, only it is your grief you cannot fear them, nor condemn your ſelf for them, as damning ſins. For ſatisfaction of which, I hope this reply to your ſecond trouble will give you ſome ſatisfaction.</p>
+                  <p>
+                     <hi>Queſt.</hi> 4. Again to your fourth queſtion, to know whether theſe changes you have ſometimes, &amp; theſe movings of the Spirit, are not of na<g ref="char:EOLhyphen"/>tural temper, or Gods Spirit. It ſeems I did a little miſtake the meaning, be<g ref="char:EOLhyphen"/>cauſe you meant not the main work of grace, but occaſional ſtirrings and movings of heart, as by reading ſome
+<pb n="69" facs="tcp:175369:41"/> pathetical Letter, your Spirit is mo<g ref="char:EOLhyphen"/>ved with joy or ſorrow, which it may be will not be ſtirred at ſome other time, as by drinking a cup of wine, the ſpirit is made more chearful &amp; lively, &amp;c.</p>
+                  <p>
+                     <hi>Anſw.</hi> I anſwer theſe three things.</p>
+                  <p n="1">1. Firſt, That it is very uſual for na<g ref="char:EOLhyphen"/>tural affections to be raiſed by a natu<g ref="char:EOLhyphen"/>ral temper, as by drinking, eating, noveltineſs of the Goſpel, <hi>John</hi>'s can<g ref="char:EOLhyphen"/>dle flies were raviſhed with the Go<g ref="char:EOLhyphen"/>ſpel: People are naturally moved ſome<g ref="char:EOLhyphen"/>times by a thundring Miniſter, yet ne<g ref="char:EOLhyphen"/>ver a whit the more grace, &amp;c. and it is a good ſpeech of Doctor <hi>Ames:</hi> Arminian univerſal grace (as they deſcribe it) may be the effect of a good dinner ſometimes.</p>
+                  <p n="2">2. That tho' the being of grace de<g ref="char:EOLhyphen"/>pends not upon the temper of the bo<g ref="char:EOLhyphen"/>dy, yet the exerciſe of grace, and ma<g ref="char:EOLhyphen"/>ny gifts of grace, together with the feeling of it doth. And hence a good dinner, and ſometimes wine, to a ſad melancholy (if gracious) heart, may re<g ref="char:EOLhyphen"/>move <hi>rem prohibentem</hi> that may keep grace, as joy &amp; thankfulneſs from work<g ref="char:EOLhyphen"/>ing, and ſo take the grace and draw
+<pb n="70" facs="tcp:175369:42"/> it out, not create and diffuſe the grace: The Prophet called (you know) for a Minſtril, which ſome think, (and that upon good grounds) was to raiſe up his heavy heart, and make him chear<g ref="char:EOLhyphen"/>ful and fit to ſpeak: the body is the inſtrument, which if it be broken, the beſt grace will hardly ſound; but if whole, then they will.</p>
+                  <p n="3">3. If you would know when theſe things only draw out grace, or make a thing like unto grace in the Soul, I anſwer, by cheſe two things chiefly.</p>
+                  <p n="1">1. If it be true grace, it ever makes you more humble and vile in your own eyes, and ſay, Lord, why doſt thou g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve me any deſire to thee, any chear<g ref="char:EOLhyphen"/>fulneſs in ſerving thee? &amp;c.</p>
+                  <p n="2">2. It makes you more thankful, &amp; to bleſs the Lord that he thus remem<g ref="char:EOLhyphen"/>bers you; for this is a ſtanding rule, what ever comes from nature, and a mans ſelf, it ever builds up it ſelf, and returns to ſelf again; what ever grace comes from Chriſt, it drives a man out of himſelf, by making him humble and draws him unto Chriſt that ſent him, by making him thankful; I think
+<pb n="71" facs="tcp:175369:42"/> all grace, and ſtirrings, and movings that have not this double effect in ſome meaſure, are to be ſuſpected, and if they have, it is dangerous to doubt whether they are true or no.</p>
+                  <p>5. Again, Your fifth thing about providence, you ſay you cannot ſee a poſitive providence, altho' you do ſee a negative providence in all your oc<g ref="char:EOLhyphen"/>caſions, and comforts, and croſſes, you meet withal, as namely, you can thank God for not taking away your life, &amp;c. but you cannot ſee God giving it.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1. I anſwer, 1. Conſider what I writ to you at firſt about this queſtion in general.</p>
+                  <p>2. Ponder ſadly whether any crea<g ref="char:EOLhyphen"/>ture or appurtenance to it, has its being from it ſelf, or from the will and word of God, <hi>viz.</hi> I will have ſuch a man to be, and ſuch a memory to be, &amp;c. I think you will ſay nothing can make it ſelf, therefore here is a poſitive Providence in life, liberty, &amp;c.</p>
+                  <p>3. Conſider whether the ſame will and word that gives it a being, toge<g ref="char:EOLhyphen"/>ther with all the appurtenances to it, doth not alſo give it act and motion.
+<pb n="72" facs="tcp:175369:43"/> That it is ſo, I thus demonſtrate it. 1. Every creature is made for an end, for no wiſe efficient, but works for ſome wiſe end. 2. That no creature can lead it ſelf to its end, if ſinful or ir<g ref="char:EOLhyphen"/>rational. 3. God muſt and doth lead it by its ſeveral acts and movings to that end. Hence 4. Every act is determi<g ref="char:EOLhyphen"/>ned by God.</p>
+                  <p>And altho' I grant ſome creatures move freely, ſome neceſſarily, yet it is from a poſitive will and providence that they move, act and ſee. There<g ref="char:EOLhyphen"/>fore you ſee what cauſe there is to ſee a poſitive providence in every thing.</p>
+                  <p>Concerning the reſt of your letter, Oh that I had time and heart to writ more; yet I hope I have writ enough for this time, and the Lord knows whether ever more or no. However I thank you heartily for improving me this way of writing, who have my mouth ſtopt from ſpeaking. I wiſh I had more ſuch friends to deal thus with me, and my ſelf more time, and a more fruitful head and heart to improve my ſelf this, or any other like way for them:
+<pb n="73" facs="tcp:175369:43"/> For who knows what breathings of Gods Spirit are loſt for want of wri<g ref="char:EOLhyphen"/>ting, eſpecially when there is no ſea<g ref="char:EOLhyphen"/>ſon of ſpeaking. Truly Sir, I meet with few that are much troubled in that manner as your ſelf, but they go on in an eaſie, quiet, and very dange<g ref="char:EOLhyphen"/>rous way: which troubles (I perſwade my ſelf) keep you awaking, when o<g ref="char:EOLhyphen"/>ther virgins are ſlumbring, and after which (I am perſwaded) the Lord in<g ref="char:EOLhyphen"/>tends to uſe you for more than com<g ref="char:EOLhyphen"/>mon ſervice, if you wade well through them; however as I ſaid before, be not diſcouraged, or too much perplexed in ſorrow for them. For ſurely, as far as I can gueſs, the Lord is preparing you for himſelf by them. I ſhall not forget you, tho' I never ſaw you: and I beſeech you if have any ſpark of affection toward me kindl'd by theſe fewlines, remember when you are beſt able to pray for your ſelf, to remember to look after me and mine, &amp; all that go with me on the migh<g ref="char:EOLhyphen"/>ty waters, and then to look up &amp; ſigh to Heaven for me, that the Lord would out of his free grace but bring me to that good land, &amp; thoſe glorious Ordinances, and that there I may but behold the face
+<pb n="74" facs="tcp:175369:44"/> of the Lord in his Temple, tho' he never delight to uſe me there, tho' I and mine ſhould poſſibly beg there; and that if the Lord ſhould call me to my ſolemn work and ſervice for the good of his Church &amp; People, &amp; company that go with me, or are gone before me, that then the Lord Jeſus would reveal his ſecrets to me, &amp; enable me the little time I have to live, to be fruitful to him, and to have a larger heart than ever for him, as for yourſelf I ſhall deſire the Lord to keep you blame<g ref="char:EOLhyphen"/>leſs and unſpotted in an evil world, and that as he has begun, ſo he would per<g ref="char:EOLhyphen"/>fect, &amp; crown his divine graces &amp; work in you, &amp; that you may be perſerved from national ſins, which ſhortly bring natio<g ref="char:EOLhyphen"/>nal and moſt heavy plagues.</p>
+                  <p>And the preſence of the Lord may a<g ref="char:EOLhyphen"/>bide with you, and in you, until the Lord call for you. Remember my kind love to your Father, whoſe name I have forgot, and by whom I could not ſend theſe lines, being then hindred by buſi<g ref="char:EOLhyphen"/>neſs. Now the peace of Jeſus Chriſt be with you, &amp; keep you upright &amp; blame<g ref="char:EOLhyphen"/>leſs till death. And if I never ſee you more till the laſt and great day, then Farewel, Farewel.</p>
+                  <closer>
+                     <signed>Yours in Jeſus Chriſt,</signed> T. S.</closer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:175369:44"/>
+                  <p>The Firſt PRINCIPLES OF THE ORACLES OF GOD.</p>
+                  <p>
+                     <hi>Collected</hi> By THOMAS SHEPHARD, Sometime of <hi>Emanuel Col<g ref="char:EOLhyphen"/>ledge</hi> in <hi>Cambridge;</hi> Now Preacher of God's Word in <hi>New England.</hi>
+                  </p>
+                  <p>HEB. 5 12. <hi>For when for the time ye ought to be Teach<g ref="char:EOLhyphen"/>ers, ye have need that one teach you again which be the firſt Principles of the Ora<g ref="char:EOLhyphen"/>cles of God; and are become ſuch as have need of milk, and not of ſtrong meat.</hi>
+                  </p>
+                  <p>Re-printed in the Year, 1695.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:175369:45"/>
+                  <pb n="77" facs="tcp:175369:45"/>
+                  <head>To <hi>The Chriſtian</hi> READER.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">I</seg>T is no diſparagement at all for</hi> this wife Maſter-Buil<g ref="char:EOLhyphen"/>der, <hi>[Mr.</hi> Thomas Shep<g ref="char:EOLhyphen"/>hard <hi>of</hi> New-England] <hi>to labour ſometimes by the Hammer of the Word, to faſten theſe nails of</hi> Truth <hi>in a ſure place, even in the Heads and Hearts of Infant-Chriſtians.</hi>
+                  </p>
+                  <p>
+                     <hi>Neither is it below the higheſt Scholar in Chriſts School, to</hi> hold faſt the form of wholeſome words, 2 <hi>Tim.</hi> 1. 13.</p>
+                  <p>
+                     <hi>The great Apoſtle himſelf, (who was wrapt up into the third Heaven) altho' he had received a Commiſſion of Chriſt his
+<pb n="78" facs="tcp:175369:46"/> Maſter to make Diſciples, yet he was a Diſciple ſtill; for he not only Catechized others, but learned, and that again, and again,</hi> The firſt Prin<g ref="char:EOLhyphen"/>ciples of the Oracles of <note place="margin">Heb 5. 12. Mat. 13. 11. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> 1 Cor. 2. 10.</note> God: <hi>which are called</hi> The Myſteries of the Kingdom of Heaven, &amp; the depths of God: <hi>that is, in plain English, thoſe Doctrinal Truths, which are truly fundamental, and abſolutely neceſſary unto ſalvation; that we</hi> may be able by ſound doctrine both to <note place="margin">Tit. 1. 2. 1 Pet. 1. 15.</note> exhort and convince the gain-ſayers: and be rea<g ref="char:EOLhyphen"/>dy always to give an anſwer to every man that asketh us a reaſon, of the hope that is in us.</p>
+                  <p>
+                     <hi>Thus heartily beſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eching thee, in the name of Chriſt, to</hi> ſearch the Scriptures, <hi>and</hi> to <note place="margin">Joh. 5. 39. Acts 6. 4.</note> give thy ſelf continually to Prayer, and the Miniſtry of the Word: that <note place="margin">2 Pet 3 8. Acts 20. 32.</note> you may grow in Grace, and in the knowledge of
+<pb n="79" facs="tcp:175369:46"/> our Lord and Saviour Jeſus Chriſt. I now commend you to God, and to the Word of his Grace, which is able to build you up, and to give you an in<g ref="char:EOLhyphen"/>heritance among all them which are Sanctified. So be it.</p>
+                  <closer>
+                     <salute>Friend,</salute> 
+                     <signed>I am thine, if thou doſt love the Truth, and our Lord Jeſus Chriſt in ſincerity. WILLIAM ADDERLEY.</signed>
+                     <dateline>Dated, From <hi>Charter houſe</hi> in <hi>London.</hi> 
+                        <date>February, 1. 16 47.</date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb n="80" facs="tcp:175369:47"/>
+                  <head>CHRISTIAN READER,</head>
+                  <p>
+                     <hi>BEing deſired to peruſe and give our opinion of the reſolutions in this Letter now preſented to thy view; We muſt confeſs, they appeared to us very precious; For we have fel<g ref="char:EOLhyphen"/>dom ſeen acuteneſs, profoundneſs and god<g ref="char:EOLhyphen"/>lineſs, ſo eminently, equally, and happily matched. There are in Chriſts School divers forms, elementaries, and men of exerciſed wits. The Scholar propoſing theſe caſes was no Puny, and he was happy in meeting with a teacher ſo able for reſolution. Therefore, who ever reads and heeds, will not repent of his labour. But the more knowing the Rea<g ref="char:EOLhyphen"/>der is, and the more experienced in the Ways of Chriſt, the more delight may he take in, and the more profit may he reap by theſe pious and profound reſolutions. So we are</hi>
+                  </p>
+                  <closer>
+                     <signed>Thine in Chriſt Jeſus <hi>John G<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ree,</hi> and <hi>Will. Greenhil.</hi>
+                     </signed> 
+                     <dateline>
+                        <date>Mar. 27. 1648.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="81" facs="tcp:175369:47"/>
+                  <head>THE Sum of <hi>CHRISTIAN</hi> RELIGION: In way of Queſtion and Anſwer.</head>
+                  <byline>
+                     <hi>Delivered by Mr.</hi> THO. SHEPHARD in N. E.</byline>
+                  <p>Queſt. <hi>WHat is the beſt and laſt end of Man?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> To live to God. <hi>Rom.</hi> 6. 10, 11. <hi>Gal.</hi> 3. 19. 2. <hi>Cor.</hi> 5. 3, 15.</p>
+                  <p>Q. <hi>How is man to live unto God?</hi>
+                  </p>
+                  <pb n="82" facs="tcp:175369:48"/>
+                  <p>
+                     <hi>A.</hi> Two ways.</p>
+                  <p>Firſt, By Faith in God, <hi>Pſal</hi> 37. 3. Secondy, By obſervance of God. <hi>E<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cl.</hi> 12. 13.</p>
+                  <p>Q. <hi>What is faith in God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is the firſt act of our Spiritual life, whereby the ſoul believing God, believeth in God, and there reſteth as in the only Author and Principle of Life, <hi>Heb. 10. 38. Joh. 3. 33, 36. Rom. 4. 3. Heb. 11. 13. Heb. 4. 3. Deut.</hi> 30. 20.</p>
+                  <p>Q. <hi>What is God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> God only knoweth himſelf, no man can ſo kno<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> him and live: Yet he hath manifeſted himſelf unto us in his back-parts, according to our man<g ref="char:EOLhyphen"/>ner or meaſure of knowing things: and we need know no more than theſe, that we may live, 1 <hi>Tim. 6, 16. Exod.</hi> 33. 19, 23.</p>
+                  <p>Q. <hi>What are Gods back-parts?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> They are two; Firſt, His ſuf<g ref="char:EOLhyphen"/>ficiency, <hi>Pſal.</hi> 36. 9. Secondly, His Efficiency, <hi>Rom.</hi> 4. 21.</p>
+                  <p>Q. <hi>What is Gods ſufficiency?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is his perfect fulneſs of all good, whereby he is all-ſufficient for
+<pb n="83" facs="tcp:175369:48"/> us in himſelf, <hi>Pſal. 16. 11. Gen.</hi> 17. 1.</p>
+                  <p>Q. <hi>Wherein ſtands and appears Gods ſufficiency?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Firſt, in his Eſſence, <hi>Pſal.</hi> 68. 19.</p>
+                  <p>Secondly, In his ſubſiſtence or per<g ref="char:EOLhyphen"/>ſons, 2 <hi>Sam.</hi> 7. 20, 25.</p>
+                  <p>Q. <hi>What is Gods Eſſence?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Whereby he is that abſolute firſt Being, <hi>Rev. 1. 8. Iſa. 44. 6. Exod.</hi> 3. 14.</p>
+                  <p>Q. <hi>Can you ſufficiently conceive of the Glory of this one moſt pure Eſſence, by one act of Faith?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No; and therefore the Lord has manifeſted it unto us by divers attri<g ref="char:EOLhyphen"/>butes, <hi>Deut 29. 29. Exod.</hi> 34. 6, 7.</p>
+                  <p>Q <hi>What are Gods Attributes?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> That one moſt pure Eſſence, diverſly apprehended of us, as it is di<g ref="char:EOLhyphen"/>verſly made known unto us, 1 <hi>John 4. 16. Iſa.</hi> 43. 25.</p>
+                  <p>Q. <hi>How many kinds of Attributes are there?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> There are two ſorts of them.</p>
+                  <p>Firſt, Some ſhewing what God is:</p>
+                  <p>Secondly, Some ſhewing who God is.</p>
+                  <pb n="84" facs="tcp:175369:49"/>
+                  <p>
+                     <hi>Q. By what Attributes know you what God is?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By theſe; God is a Spirit, living of himſelf, <hi>Joh. 4. 24. Joh.</hi> 5. 26.</p>
+                  <p>Q. <hi>By what Attributes do you under<g ref="char:EOLhyphen"/>ſtand who is God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By his Eſſential properties, which ſhew to us: Firſt, How great a God he is, <hi>Pſal.</hi> 77. 13.</p>
+                  <p>Secondly, What a manner of God he is, <hi>Mat.</hi> 6. 17.</p>
+                  <p>Q. <hi>What Attributes ſhew how great a God he is?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Firſt, His infiniteneſs, where<g ref="char:EOLhyphen"/>by he is without all limits of Eſſence, 2 <hi>Chr.</hi> 2. 5, 6.</p>
+                  <p>Secondly, His Eternity, whereby he is without all limits of beginning, ſucceſſion, or end of Time, <hi>Pſal. 102. 25, 26, 27. 1 Tim.</hi> 1. 17.</p>
+                  <p>Q. <hi>What are thoſe Attributes which ſhew what a manner of God he is?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His qualities whereby he acteth with, are of two ſorts:</p>
+                  <p>Firſt, His Faculties, whereby he is able to act, <hi>Iſa.</hi> 60. 16. &amp; 63. 1.</p>
+                  <p>Secondly, His Virtues of thoſe Fa<g ref="char:EOLhyphen"/>culties, whereby he is prompt and rea<g ref="char:EOLhyphen"/>dy to act, <hi>Pſal.</hi> 86. 5.</p>
+                  <pb n="85" facs="tcp:175369:49"/>
+                  <p>
+                     <hi>Q. What are his Faculties?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Firſt, His underſtanding, where<g ref="char:EOLhyphen"/>by he underſtandeth together, and at once all truth, <hi>Heb. 4. 13. Acts</hi> 15. 18.</p>
+                  <p>Secondly, His will, whereby he pure<g ref="char:EOLhyphen"/>ly willeth all good. <hi>Pſal.</hi> 119. 68.</p>
+                  <p>Q. <hi>VVhat are the virtues of thoſe Fa<g ref="char:EOLhyphen"/>culties.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Firſt, They are intellectual; the virtues of his underſtanding, as Wiſ<g ref="char:EOLhyphen"/>dom, Knowledg, and the reſt.</p>
+                  <p>Secondly, Moral; the virtue of his Will, as Love, Holineſs, Mercy. In the acting of both which, confiſts Gods happineſs.</p>
+                  <p>Thus much have you ſeen of Gods ſufficiency, in regard of his Eſſence. Now follows his ſubſiſtence.</p>
+                  <p>Q. <hi>VVhat are his ſubſiſtences or per<g ref="char:EOLhyphen"/>ſons?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> That one moſt pure Eſſence with its Relative properties.</p>
+                  <p>Q <hi>VVhat are thoſe Relative proper<g ref="char:EOLhyphen"/>ties.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> They are three.</p>
+                  <p>Firſt, To beget.</p>
+                  <p>Secondly, To be begotten.</p>
+                  <pb n="86" facs="tcp:175369:50"/>
+                  <p>Thirdly, To proceed from both.</p>
+                  <p>Q. <hi>How many perſons learn you from hence to be in God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Three</p>
+                  <p>Firſt, The firſt, is the Father, the firſt Perſon in order, begetting the Son. <hi>Pſal.</hi> 2. 7.</p>
+                  <p>Secondly, The Son, the ſecond Per<g ref="char:EOLhyphen"/>ſon, begotten of the Father. <hi>Joh. 3. 6. Heb.</hi> 1. 3.</p>
+                  <p>Thirdly, The Spirit, the third Per<g ref="char:EOLhyphen"/>ſon, proceeding from them both. <hi>Joh.</hi> 15. 26.</p>
+                  <p>Q. <hi>Are theſe three Perſons three di<g ref="char:EOLhyphen"/>stinct Gods?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No, For they are that one pure Eſſence, and therefore but one God. <hi>Joh. 1. 1. Rom. 9. 5. 1 Cor. 6. 16. 1 Cor.</hi> 2. 10.</p>
+                  <p>Q. <hi>If every Perſon be God, how can they be diſtinct Perſons, and not diſtinct Gods?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Yes, Becauſe one and the ſame thing may have many Relative proper<g ref="char:EOLhyphen"/>ties, and reſpects of being, which in the God-head make diſtinct Perſons. As one and the ſame man, may be Fa<g ref="char:EOLhyphen"/>ther in one reſpect, a Maſter in ano<g ref="char:EOLhyphen"/>ther
+<pb n="87" facs="tcp:175369:50"/> reſpect; and a Scholar in another reſpect.</p>
+                  <p>Q. <hi>If theſe three Perſons be but one God, what follows from hence.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> That all the three Perſonr are Co equal, Co eternal, ſubſiſting in one, not ſeparating from each other, &amp; there<g ref="char:EOLhyphen"/>fore delighting in each other, glorify<g ref="char:EOLhyphen"/>ing each other, <hi>Prov. 8. 30. Thus much concerning God,</hi>
+                  </p>
+                  <p>Now concerning the works of God.</p>
+                  <p>Q. <hi>Thus much concerning Gods ſuffi<g ref="char:EOLhyphen"/>ciency. VVhat is his efficiency.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Whereby he worketh all things, and all in all things. <hi>Rom. 11. 36. Iſa.</hi> 45. 7.</p>
+                  <p>Q. <hi>VVhat of Gsd ſhines forth, and are you to behold in this Efficiency.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Two things</p>
+                  <p>Firſt, Gods Omnipotency, in reſpect of his Eſſence.</p>
+                  <p>Secondly, the co-operation and di<g ref="char:EOLhyphen"/>ſtinct manner of working of the three Perſons. <hi>Rom. 1. 20. John</hi> 5. 17.</p>
+                  <p>Q. <hi>VVhat is Gods Omnipotency?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is his almighty power,
+<pb n="88" facs="tcp:175369:51"/> whereby he is able to bring to paſs all that he doth will, or what ever he can will or decree. 2 <hi>Chron. 20. 6. Phil. 3. 21. Mat 3. 9. Pſal. 115. 7.</hi>
+                  </p>
+                  <p>Q. <hi>VVhat is Gods Decree?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is his Eternal and determinate purpoſe, concerning the effecting of all things by his mighty power, accor<g ref="char:EOLhyphen"/>ding to his counſel. <hi>Eph.</hi> 1. 11.</p>
+                  <p>Q. <hi>VVhat attributes or glory of God appear in his Decree?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Firſt, His conſtancy, whereby his Decree remains unchangeable. <hi>Num.</hi> 23. 19.</p>
+                  <p>Secondly, His Truth, whereby he delivereth nothing but what he hath decreed. <hi>Jer.</hi> 10. 10.</p>
+                  <p>Thirdly, His Faithfulneſs, whereby he effecteth what-ever he decreeth ac<g ref="char:EOLhyphen"/>cording thereunto. <hi>Iſa.</hi> 46. 10.</p>
+                  <p>Q. <hi>VVhat is God's Counſel.</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His deliberation as it were, for the beſt effecting of every thing ac<g ref="char:EOLhyphen"/>cording to his Wiſdom. <hi>Acts</hi> 4. 24. <hi>Pſa.</hi> 104. 24.</p>
+                  <p>Q. <hi>VVhat is Gods VViſdom!</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is the Idaea or perfect plat<g ref="char:EOLhyphen"/>form of all things in the mind of God,
+<pb n="89" facs="tcp:175369:51"/> which either can be known, or ſhall be done, according to the good pleaſure of his will. <hi>Hebr.</hi> 11. 3. <hi>Prov.</hi> 8. 12, 13.</p>
+                  <p>Q. <hi>VVhat is the good pleaſure of Gods will?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is the moſt free Act of his Will, whereby he willeth himſelf directly, as the greateſt good, and all other things for himſelf, according to his good plea<g ref="char:EOLhyphen"/>ſure. <hi>Mat. 11. 25. Prov. 16. 4.</hi>
+                  </p>
+                  <p>Q. <hi>VVhat learn you from hence?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> That Gods good pleaſure is the firſt and beſt cauſe of all things. <hi>Pſal.</hi> 115. 3. <hi>Pſal,</hi> 33. 8, 9, 10, 11.</p>
+                  <p>Q. <hi>VVhat are the Co-operations of the three perſons in Gods Efficiency?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Whereby they work the ſame thing together unſeperably. <hi>Joh.</hi> 5. 17, 19. &amp; 16. 13, 14.</p>
+                  <p>Q. <hi>If they work the ſame thing together, How is it that ſome works are attributed to God the Father, as Creation; ſome to the Son, as Redemption; ſome to the Holy Spirit, as application?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> This is not becauſe the ſame work is not common to all the three Perſons; but becauſe that work is principally at<g ref="char:EOLhyphen"/>tributed in Scripture to that perſon whoſe diſtinct manner of working ap<g ref="char:EOLhyphen"/>pears chiefly in the work.</p>
+                  <pb n="90" facs="tcp:175369:52"/>
+                  <p>
+                     <hi>Q. VVhat is God the Fathers diſtinct manner of working?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His working is from himſelf by the Son, &amp; to the Holy Ghoſt, <hi>Pſ. 33. 6. Joh.</hi> 1. 3 &amp; hence the beginning, &amp; ſo the Cre<g ref="char:EOLhyphen"/>ation of all things is attributed to him.</p>
+                  <p>Q <hi>VVhat is God the Sons manner of working?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His working is from the Father, by the Holy Ghoſt, <hi>Ioh.</hi> 14. 16. and hence the diſpenſation of things, and ſo Redemption, is attributed unto him.</p>
+                  <p>Q. <hi>VVhat is the Holy Ghoſts manner of working?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His working is from the Father and the Son, <hi>Ioh.</hi> 14. 26. and hence the conſummation of all things, and ſo application is attributed unto him.</p>
+                  <p>Q. <hi>VVherein doth Gods efficiency or working appear?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> In two things.</p>
+                  <p>Firſt, In his creation of the world. Secondly, in his providence over the world. <hi>Eſa.</hi> 37. 16.</p>
+                  <p>Q. <hi>VVhat is his Creation?</hi>
+                  </p>
+                  <p>A. It is Gods efficiency, whereby he made the whole world of nothing, origina<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly exceeding good, <hi>Pſal.</hi> 33. 9. <hi>Gen.</hi> 1. 31.</p>
+                  <p>Q. <hi>Did the Lord make the worlding an inſtant?</hi>
+                  </p>
+                  <pb n="91" facs="tcp:175369:52"/>
+                  <p>
+                     <hi>A.</hi> No; but by parts, in the ſpace of ſix dayes, deſcribed at large by <hi>Moſes, Gen 1.</hi>
+                  </p>
+                  <p>Q. <hi>When did the Lord make the third heaven, with the Angels their Inhabitants?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> In the firſt day, in the firſt begin<g ref="char:EOLhyphen"/>ning of it, <hi>Gen. 1. 1. Iob 38. 6, 7.</hi>
+                  </p>
+                  <p>Q. <hi>What is the creation of the third heaven?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Whereby he made it to be the heaven of heavens, a moſt glorious place, replenished with all pleaſure which belongs to eternal happineſs, wherein his Majeſty is ſeen face to face, &amp; therefore called the habitation of God 2 <hi>Chr.</hi> 2. 5, 6. <hi>Pſal.</hi> 16. 11. <hi>Pſal.</hi> 63. 15.</p>
+                  <p>Q. <hi>What is the creation of the Angels?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Whereby he created an innume<g ref="char:EOLhyphen"/>rable number of them, in holineſs, to be miniſtring ſpirits, with moſt acute<g ref="char:EOLhyphen"/>neſs of underſtanding, liberty of will, great ſtrength, and ſpeedy in motion, to celebrate his praiſes, and execute his commands, ſpecially to the heirs of ſalvation. <hi>Heb.</hi> 11. 22. <hi>Ioh.</hi> 8. 44. <hi>Heb.</hi> 1. 14. 2 <hi>Sam.</hi> 14. 20. <hi>Iude</hi> 6. 2 <hi>Pet.</hi> 2. 11. Eſa. 6. 2. <hi>Pſal.</hi> 130. 20.</p>
+                  <p>Q. <hi>When did God create man?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The ſixth day, <hi>Gen.</hi> 1. 27.</p>
+                  <p>Q. <hi>How did God create man?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> He made him a reaſonable crea<g ref="char:EOLhyphen"/>ture,
+<pb n="92" facs="tcp:175369:53"/> conſiſting of body, and an immor<g ref="char:EOLhyphen"/>tal Soul, in the Image of God, <hi>Gen. 2. 7. Gen.</hi> 1. 28.</p>
+                  <p>Q. <hi>What is the Image of God where<g ref="char:EOLhyphen"/>in he was made?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> That hability of man to reſemble God, and wherein he was like unto God, in wiſdom, holineſs, righteouſneſs, both in his nature, and in his government of himſelf and all Creatures. <hi>Col. 3. 10. Epheſ. 2. 24. Gen.</hi> 1. 26.</p>
+                  <p>Q. <hi>What became of man being thus made?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> He was placed in the Garden of Eden, as in his Princely Court, to live unto God, together with the woman which God gave him. <hi>Gen.</hi> 2. 15.</p>
+                  <p>Q. Thus much of Gods creation. <hi>What is his Providence?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Whereby he provideth for his creatures being made, even to the leaſt circumſtance, <hi>Pſal.</hi> 145. 16. <hi>Pro.</hi> 16. 33.</p>
+                  <p>Q. <hi>How is Gods Providence diſtinguiſhed?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is either, firſt, Ordinary, and medi<g ref="char:EOLhyphen"/>ate, whereby he provids for his creatures by ordinary and uſual means. <hi>Hoſ.</hi> 2. 22.</p>
+                  <p>Secondly, Extraordinary and imme<g ref="char:EOLhyphen"/>diate, whereby he provides for his crea<g ref="char:EOLhyphen"/>tures by miracles, or immediatly by himſelf. <hi>Pſal.</hi> 36. 4. <hi>Dan.</hi> 3. 17.</p>
+                  <pb n="93" facs="tcp:175369:53"/>
+                  <p>
+                     <hi>Q. Wherein is his Providence ſeen?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Firſt, in Converſation, whereby he upholdeth things in their being and power of working. <hi>Act.</hi> 17. 28. <hi>Pſal.</hi> 104. 29, 30. <hi>Nehem.</hi> 9. 6.</p>
+                  <p>Secondly, in Gubernation, whereby he guides, directs &amp; brings all creatures to their ends. <hi>Pſal.</hi> 29. 10. <hi>Pſal.</hi> 33. 11.</p>
+                  <p>Q. <hi>Doth God govern all creatures alike?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No; but ſome he governs by a common providence, and others by a ſpecial providence, to wit, Angels and Men, to an eternal eſtate of happineſs in pleaſing him, or of miſery in diſplea<g ref="char:EOLhyphen"/>ſing him. <hi>Deut.</hi> 30. 15, 16.</p>
+                  <p>Q. <hi>What of Gods Providence appears in his ſpecial government of man?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Two things.</p>
+                  <p n="1">1. Mans Apoſtacy or fall.</p>
+                  <p n="2">2. His Recovery or riſing again.</p>
+                  <p>Q. <hi>Concerning mans fall, what are you to obſerve therein?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Two things.</p>
+                  <p n="1">1. His tranſgreſſion in eating the for<g ref="char:EOLhyphen"/>bidden fruit, <hi>Gen.</hi> 2. 17.</p>
+                  <p n="2">2. The propagation of this unto all <hi>Adam</hi>'s poſterity.</p>
+                  <p>Q. <hi>Was this ſo great a ſin to eat of the forbidden fruit?</hi>
+                  </p>
+                  <pb n="94" facs="tcp:175369:54"/>
+                  <p>
+                     <hi>A.</hi> Yes, exceeding great, this Tree being a Sacrament of the Covenant; alſo he had a ſpecial charge not to eat of it: and in it the whole man did ſtrike a<g ref="char:EOLhyphen"/>gainſt the whole law, even when God had ſo highly advanced him.</p>
+                  <p>Q. <hi>what are the cauſes of this tranſgreſſion?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The blameleſs cauſe was the law of God, <hi>Rom.</hi> 5. 13. And hence as the Law did it, ſo God did it: holy, juſtly, and blameleſly. <hi>Rom.</hi> 7. 10, 11, 12.</p>
+                  <p>Q. <hi>What are the blameable cauſes?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Two principally.</p>
+                  <p n="1">1. The devil abuſing the ſerpent to deceive the woman. <hi>Gen.</hi> 3. 1.</p>
+                  <p n="2">2. Man himſelf in abuſing his own free-will, in receiving the temptation, which he might have reſiſted. <hi>Eph.</hi> 7 29.</p>
+                  <p>Q. <hi>What is the Devil?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> That great number of apoſtate &amp; rebellious Angels, which through pride and blaſphemy againſt God, and malice againſt man, becamely ars and murthe<g ref="char:EOLhyphen"/>rers of man, by bringing him into that ſin. <hi>Luk.</hi> 11. 18. 1 <hi>Tim.</hi> 3. 6. 1 <hi>loh.</hi> 3. 12. <hi>loh.</hi> 8. 44.</p>
+                  <p>Q. <hi>What are the effects and fruits of this tranſgreſſion?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> They are two.</p>
+                  <p n="1">
+                     <pb n="95" facs="tcp:175369:54"/>1. Guilt, wherby they are tied to undergo due punishment for the fault. <hi>Rom.</hi> 3. 19.</p>
+                  <p n="2">2. Punishment, which is the juſt an<g ref="char:EOLhyphen"/>ger of God upon them for the filth of ſin. <hi>Rom.</hi> 1. 18.</p>
+                  <p>Q. <hi>What are the particular punish<g ref="char:EOLhyphen"/>ments inflicted on the cauſes of this ſin?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Beſides the fearful punishment of the devils, mentioned <hi>Iude</hi> 6. and that of the Serpent &amp; the Woman, <hi>Gen.</hi> 3. 14, 16 the punishment of man was firſt, Sin O<g ref="char:EOLhyphen"/>riginal &amp; Actual. Secondly, death. <hi>Gen.</hi> 5. 5.</p>
+                  <p>Q. <hi>What is ſin?</hi>
+                  </p>
+                  <p>A. The tranſgreſſion of Gods law. <hi>Io.</hi> 3. 4.</p>
+                  <p>Q. <hi>What is Original and Actual ſin?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Firſt, Original ſin is the contra<g ref="char:EOLhyphen"/>riety of the whole nature of man to the law of God, whereby it being averſe from all good, is enclined to all evil. <hi>Eccleſ.</hi> 8. 11. <hi>Gen.</hi> 6. 5. <hi>Rom.</hi> 6. 20.</p>
+                  <p>Secondly, Actual ſin is the continual jarring of the actions of man from the law of God, by reaſon of original ſin, and ſo man hath no free will to any ſpi<g ref="char:EOLhyphen"/>ritual good. <hi>Eſa.</hi> 65. 2, 3. <hi>Jam.</hi> 1. 14, 15. <hi>Eſa.</hi> 1. 11.</p>
+                  <p>Q. <hi>What death is that God inflicts on man for ſin?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A double death.</p>
+                  <p n="1">
+                     <pb n="96" facs="tcp:175369:55"/>1. The firſt death of the body, to<g ref="char:EOLhyphen"/>gether with the beginnings of it in this world, as grief, shame, loſles, ſickneſ<g ref="char:EOLhyphen"/>ſes. <hi>Deut.</hi> 28. 21, 22. 35.</p>
+                  <p n="2">2. The Second death of the Soul, which is the eternal ſeparation and ejection of the Soul after death, and Soul and body after judgment, from God, into ever<g ref="char:EOLhyphen"/>laſting torments in hell.</p>
+                  <p>Q. <hi>Is there no beginning of this death, as there is of the other in this life?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Yes; as firſt, Security and hard<g ref="char:EOLhyphen"/>neſs of heart, which cannot feel ſin its greateſt evil.</p>
+                  <p>2. Terrors of conſcience. <hi>Heb.</hi> 2. 15.</p>
+                  <p>3. Bondage of Satan. <hi>Eph.</hi> 2. 2.</p>
+                  <p>4. The curſe of God in all bleſſings, whereby they are fitted for deſtruction. <hi>Rom.</hi> 9. 22.</p>
+                  <p>Q. <hi>What of Gods attributs shine forth here?</hi>
+                  </p>
+                  <p n="1">1. His holineſs, whereby he being pure from all ſin, cannot away with the leaſt ſin in the beſt of his creatures. <hi>Heb.</hi> 1. 13.</p>
+                  <p n="2">2. His Juſtice, whereby he being moſt juſt, in himſelf, cannot but punish man for ſin, as well as reward him for well doing. 2. <hi>Theſ.</hi> 1. 6.</p>
+                  <p n="2">3. His Patience, whereby he uſeth pi<g ref="char:EOLhyphen"/>ty, Patience, and Bounty, to his creatures offending. <hi>Rom.</hi> 2. 3.</p>
+                  <pb n="97" facs="tcp:175369:55"/>
+                  <p>
+                     <hi>Q. Is this ſin, and the punishment of it derived to all mens poſterity?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Yes. <hi>Ioh. 3. 3. Eph.</hi> 2. 3.</p>
+                  <p>Q. <hi>How is it propagated?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By the imputation of <hi>Adams</hi> ſin unto us, and ſo the punishment muſt needs follow upon it. <hi>Rom.</hi> 5. 13.</p>
+                  <p>Q. <hi>Why should</hi> Adams <hi>ſin be imputed to all his poſterity?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe we were in him as the members in the head, as children in his loyns, as debtors in their ſurety, as branches in their roots, it being juſt, that as if he ſtanding, al had ſtood, by imputa<g ref="char:EOLhyphen"/>tion of his righteouſneſs, ſo he falling, al should fall, by the imputation of his ſin.</p>
+                  <p>Q. <hi>Thus have you ſeen mans apoſtacy from God, what is his recovery?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is the return of man to the fa<g ref="char:EOLhyphen"/>vour of God again, meerly out of fa<g ref="char:EOLhyphen"/>vour, and the exceeding riches of his free grace. <hi>Eph. 2. 12, 13. Rom.</hi> 5. 8.</p>
+                  <p>Q. <hi>How are we brought into favour, and what are the parts of this recovery?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Two wayes:</p>
+                  <p>Firſt, by Redemption. 2 <hi>Cor.</hi> 5. 19, 20. 2dly, by Application hereof. <hi>Tit.</hi> 3. 6.</p>
+                  <p>Q. <hi>What is Redemption?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The ſatisfaction made, or the
+<pb n="98" facs="tcp:175369:56"/> price payed, to the juſtice of God for the life and deliverance of man out of the captivity of ſin, Satan, and death, by a Redeemer, according to the Covenant made between him and the Father. 1 <hi>Cor. 6. 20. Luk. 1. 74. Eſa.</hi> 55. 10, 11.</p>
+                  <p>Q. <hi>Who is this Redeemer?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Jeſus Chriſt, God and Man. <hi>Mat. 1. 23. Ioh. 1. 14. Col.</hi> 2. 19.</p>
+                  <p>Q. <hi>VVhy is he God Man?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Tha t ſo he might be a fit Mediator, to tranſact all buſineſſeſs between God and man, in the execution of his three Offices, whereunto he was anointed of the Father. 1 <hi>Tim. 2. 5. Eſa.</hi> 42. 12.</p>
+                  <p>Q. <hi>What are thoſe three Offices of Chriſt?</hi>
+                  </p>
+                  <p>A. 1. His Prophetical Office, whereby he doth reveal the will of the Father. <hi>Act. 3. 22. Col.</hi> 2. 3.</p>
+                  <p>2. His Prieſtly Office, whereby he makes full atonement with the Father for us. <hi>Col.</hi> 1. 20.</p>
+                  <p>3. His Kingly Office, whereby he governs his people whom he had taught and reconciled, ſubduing their enemies, and procuring their eternal peace. <hi>Pſal. 2. 6. Eſa.</hi> 9. 6.</p>
+                  <p>Q. <hi>How hath Chriſt Ieſus made ſatisfaction?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> By his humiliation, whereby he
+<pb n="99" facs="tcp:175369:56"/> was made ſubject throughout his whole life and death, to the ſtrict Juſtice of God, to perform what ever the ſame might require for the redemption of man. <hi>Gal.</hi> 4. 4, 5.</p>
+                  <p>Q. <hi>What did Gods Juſtice require of man?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. Death, for the breach of the Law, and that Chriſt taſted, in his bit<g ref="char:EOLhyphen"/>ter ſufferings, both of body and Soul, by being made ſin, and ſo abolishing ſin; and this is called his <hi>Paſſive Obedience. Heb. 2. 9. Eph. 1. 7. 2 Cor. 5. 21. Gal.</hi> 3. 13.</p>
+                  <p>2. Perfect Obedience, in fulfilling the Law perfectly, both in his Nature and Actions: for the procuring and me<g ref="char:EOLhyphen"/>riting of life; and this is called his <hi>A<g ref="char:EOLhyphen"/>ctive Obedience. Heb.</hi> 7. 26.</p>
+                  <p>Q. <hi>What follows Chriſts Humiliation?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His Exaltation, which is his glo<g ref="char:EOLhyphen"/>rious victory, and open Triumph over all his and our enemies, ſin, Satan, and death, in the ſeveral degrees of it. <hi>Luk. 24. 26. Phil. 2. 8, 9. 1 Cor.</hi> 15. 5, 7.</p>
+                  <p>A. <hi>What is the firſt degree of Chriſts Exaltation?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His Reſurrection the third day, whereby his Soul &amp; body by the power of the God-head, were brought together again, and ſo roſe again from death, ap<g ref="char:EOLhyphen"/>pearing
+<pb n="100" facs="tcp:175369:57"/> to his Diſciples for the ſpace of 40 days. 1 <hi>Cor. 15. 4. Ioh. 2. 19. Act.</hi> 1. 3.</p>
+                  <p>Q. <hi>What is the ſecond degree of Chriſts Exaltation?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His Aſcenſion into Heaven, which was the going up of the Manhood into the third heaven, by the power of the God-head, from Mount Olives, in the ſight of his Diſciples. <hi>Act.</hi> 1. 11, 12.</p>
+                  <p>Q <hi>What is the third degree of his Exaltation</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His ſitting at the right hand of God, whereby he being advanced to the fulneſs of all glory, in both natures, go<g ref="char:EOLhyphen"/>verneth and ruleth all things together with the Father, as Lord over all, for the good of his people. <hi>Mark. 16. 9. Pſal. 110. 1. 1 Cor. 15. 25. Eph. 1. 20, 21, 22. 1 Pet.</hi> 3. 22.</p>
+                  <p>Q. <hi>What is the fourth and laſt degree of his Exaltation?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> His return to Judgment, which is his ſecond coming into this world with great glory and Majeſty, to judge the quick and the dead, to the confuſion of all them that would not have him rule over them, and to the unſpeakable good of his people. <hi>Mat. 19. 28. 2 Tim. 4. 1. Acts 17. 31. 2 Theſ.</hi> 1. 7, 8, 9.</p>
+                  <p>Q. Thus much of Redemption, the firſt
+<pb n="101" facs="tcp:175369:57"/> part of his Recovery. <hi>What is application?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Whereby the Spirit by the Word and Miniſtry thereof, makes all that which Chriſt as Mediator hath done for the Church efficacious to the Church, as her own. <hi>Ioh. 16. 14. Tit. 3. 5, 6, 7. Ioh. 10 16. Rom. 10. 14, 17. Eph.</hi> 5, 25, 26.</p>
+                  <p>Q. <hi>What is the Church?</hi>
+                  </p>
+                  <p>A. The number of Gods Elect. <hi>Heb. 12. 23 Ioh. 17. 9. 10, 11. Ioh. 10. 16. Ep.</hi> 1. 22, 23.</p>
+                  <p>Q. <hi>How doth the Spirit make appli<g ref="char:EOLhyphen"/>cation to the Church?</hi>
+                  </p>
+                  <p>A. 1. By union of the Soul to Chriſt. <hi>Phil.</hi> 3. 9, 10.</p>
+                  <p>2. By Commnnion of the benefits of Chriſt to the Soul.</p>
+                  <p>Q. <hi>What is this Union?</hi>
+                  </p>
+                  <p>A. Whereby the Lord joyning the Soul to Chriſt, makes it one Spirit with Chriſt, and ſo gives it poſſeſſion of Chriſt, and right unto all the benefits and bleſſings of Chriſt. 1 <hi>Cor. 6. 17. Ioh. 17. 21. Rom. 8. 32. 1 Ioh.</hi> 5. 12.</p>
+                  <p>Q. <hi>How doth the Spirit make this Union?</hi>
+                  </p>
+                  <p>A. Two ways, firſt, By cutting off the Soul from the old <hi>Adam,</hi> or the wild Olive Tree, in the work of preparation. <hi>Rom.</hi> 11. 23, 24.</p>
+                  <p>2. By putting or ingrafting the Soul
+<pb n="102" facs="tcp:175369:58"/> into the ſecond <hi>Adam,</hi> Chriſt Jeſus, by the work of vocation. Act 26. 18.</p>
+                  <p>Q. <hi>VVhat are the parts of the prepa<g ref="char:EOLhyphen"/>ration of the Soul for Chriſt?</hi>
+                  </p>
+                  <p>A. They are two.</p>
+                  <p n="1">1. <hi>Contrition,</hi> whereby the Spirit im<g ref="char:EOLhyphen"/>mediatly cuts off the Soul from its ſecu<g ref="char:EOLhyphen"/>rity in ſin, by making it to mourn for it, and ſeparating the Soul from it, as the greateſt evil. <hi>Iſa. 61. 1, 3. Jer. 4. 3, 4. Mat.</hi> 11. 20, 28.</p>
+                  <p n="2">2. <hi>Humiliation,</hi> whereby the Spirit cuts the Soul off from ſelf-confidence in any good it hath or doth. Eſpecially by ma<g ref="char:EOLhyphen"/>king it to feel its want, &amp; unworthineſs of Chriſt, and hence ſubmitteth to be diſpoſed of as God pleaſeth. <hi>Phil. 3. 7, 8. Luk. 16. 9. Luk.</hi> 15. 17, 18, 19.</p>
+                  <p>Q. <hi>VVhat are the parts of vocation of the Soul to Chriſt?</hi>
+                  </p>
+                  <p>A. 1. The Lords call and invitation of the Soul to come to Chriſt, in the Revelation, and offer of Chriſt and his rich Grace. 2 <hi>Cor.</hi> 5. 10.</p>
+                  <p>2. The receiving of Chriſt, or the coming of the whole Soul out of it ſelf unto Chriſt, for Chriſt by virtue of the irreſiſtable power of the Spirit in the call, and this is Faith. <hi>Jer. 3. 22. Ioh. 6. 44, 45. Ioh. 10. 16. Eſa.</hi> 55. 5.</p>
+                  <pb n="103" facs="tcp:175369:58"/>
+                  <p>
+                     <hi>Q. Thus much of our</hi> Union, <hi>VVhat is the communion of Chriſts benefits unto the Soul?</hi>
+                  </p>
+                  <p>A. Whereby the Soul poſſeſſed with Chriſt, and right unto him, hath by the ſame Spirit fruition of him, and all his benefits. <hi>Ioh.</hi> 4. 10. 14.</p>
+                  <p>Q. <hi>VVhat is the firſt of thoſe benefits we do enjoy from Chriſt?</hi>
+                  </p>
+                  <p>A. <hi>Juſtification,</hi> which is the Gracious Sen<g ref="char:EOLhyphen"/>tence of God the Father, whereby for the ſatisfaction of Chriſt apprehended by Faith, &amp; imputed to the faithful, he ab<g ref="char:EOLhyphen"/>ſolves them from the guilt &amp; condem<g ref="char:EOLhyphen"/>nation of all ſins, &amp; accepts them as per<g ref="char:EOLhyphen"/>fectly righteous to eternal life. <hi>Rom. 3. 24, 25. Rom. 4. 6, 7, 8. Rom.</hi> 8. 33, 34.</p>
+                  <p>Q. <hi>VVhat difference is there between Juſtification and Sanctification?</hi>
+                  </p>
+                  <p>A 1. Juſtification is by Chriſts righteouſ<g ref="char:EOLhyphen"/>neſs inherent in Chriſt only; Sanctificati<g ref="char:EOLhyphen"/>on is by a righteouſneſs from Chriſt inhe<g ref="char:EOLhyphen"/>rent in our ſelves. 2. <hi>Cor. 5. 21. Phil.</hi> 3. 9.</p>
+                  <p>2. Juſtification is perfected at once, and admits of no degrees, becauſe it is by Chriſt his perfect righteouſneſs: San<g ref="char:EOLhyphen"/>ctification is imperfect, being begun in this life. <hi>Rev. 12, 1. Phil.</hi> 3. 11.</p>
+                  <p>Q. <hi>What is the ſecond benefit next in order to Juſtification, which the faithful receive from Chriſt?</hi>
+                  </p>
+                  <pb n="104" facs="tcp:175369:59"/>
+                  <p>
+                     <hi>A.</hi> Reconciliation, whereby a Chriſtian juſtified is actually reconciled; &amp; at peace with God, <hi>Rom. 5. 1. Ioh.</hi> 2. 12. &amp; hence follows his peace with all creatures.</p>
+                  <p>Q. <hi>VVhat is the third benefit next un<g ref="char:EOLhyphen"/>to Reconciliation?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Adoption, whereby the Lord ac<g ref="char:EOLhyphen"/>counts the faithful his Sons, crowns them with priviledges of Sons, &amp; gives them the Spirit of Adoption, the ſame ſpirit which is in his only begotten Son. <hi>Ioh. 3. 2. Rom. 8. 11, 14, 15, 16, 17.</hi>
+                  </p>
+                  <p>Q. <hi>VVhat is the fourth benefit next to Adoption?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Sanctification, whereby the ſons of God are renewed in the whole man, unto the Image of their heavenly Father in Chriſt Jeſus, by Mortification, or their daily dying to ſin by virtue of Chriſts death: and by Vivification their daily riſing to newneſs of life, by Chriſts reſurrection. 1 <hi>Theſ. 5. 23, Eph. 4. 24. Jer. 31. 32. Rom.</hi> 6. 7, 8.</p>
+                  <p>Q. <hi>VVhat follows from this Mortifi<g ref="char:EOLhyphen"/>cation and Vivification?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A continual war &amp; combat between the renewed part aſſiſted by Father, Son and Holy Ghoſt, &amp; the unrenewed part aſſiſted by Satan &amp; this evil world <hi>Rom.</hi> 7. 21, 22, 23.</p>
+                  <pb n="105" facs="tcp:175369:59"/>
+                  <p>
+                     <hi>Q. VVhat is the fifth and last benefit next unto Sanctification?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Glorification, which hath two degrees. The one in this life and the o<g ref="char:EOLhyphen"/>ther in the world to come.</p>
+                  <p>Q. <hi>VVhat is the firſt degree of Glo<g ref="char:EOLhyphen"/>rification in this life?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Lively expectation of Glory, from the aſſurance and shedding abroad Gods love in our hearts, working joy unſpeakable. <hi>Rom. 5. 2, 5. Tit.</hi> 2. 13.</p>
+                  <p>Q. <hi>VVhat is the ſecond degree in the world to come?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Full fruition of Glory, whereby being made compleat and perfect in Holineſs, and Happineſs, we enjoy all that good eye hath not ſeen, nor ear hath heard, in our Immediate and Eter<g ref="char:EOLhyphen"/>nal Communion with God in Chriſt. <hi>Heb. 12. 23. 1 Cor.</hi> 15. 28. Thus much of the firſt part, of living to God by Faith in God.</p>
+                  <p>Q. <hi>What is the ſecond part,</hi> viz. <hi>our obſervance?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is the duty that is to be perfor<g ref="char:EOLhyphen"/>med to God of us, through the power of his Holy Spirit, working in us by Faith, according to the will of God. <hi>Eph. 6. 6, 7. Pſal. 139. 24. Rom. 6. 1. Luk.</hi> 1. 74.</p>
+                  <pb n="106" facs="tcp:175369:60"/>
+                  <p>
+                     <hi>Q. Wherein conſiſts our obſervance of God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is either Moral, or Ceremonial.</p>
+                  <p>Q. <hi>Wherein conſiſts our Moral obſer<g ref="char:EOLhyphen"/>vance of God?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> In two things.</p>
+                  <p>1. In ſuffering his will, whereby a be<g ref="char:EOLhyphen"/>liever, for the ſake of Chriſt, chooſeth rather to ſuffer any miſery, than to com<g ref="char:EOLhyphen"/>mit the leaſt ſin. <hi>Heb. 11. 26. Act.</hi> 21. 13.</p>
+                  <p>2. In doing his will, whereby a Be<g ref="char:EOLhyphen"/>liever in ſenſe of Chriſts love performs univerſal obedience to the Law of God. <hi>Rom. 7. 22. 1 Ioh. 5. 3. Luk. 1. 6. Phil.</hi> 3. 12.</p>
+                  <p>Q. <hi>Is there any uſe of the Law to a Chriſtian?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Although it be aboliſhed to a Chriſtian in Chriſt, as a Covenant of life; (for ſo <hi>Adam</hi> and his poſterity are ſtill under it) yet it remains as a rule of life, when he is in Chriſt, &amp; to prepare the heart for Chriſt. <hi>Rom. 6. 14, 15. Mat. 5. 17, 18, 19. 20. Ezek. 10. 11. Rom. 9.</hi>
+                  </p>
+                  <p>Q. <hi>Why is not a Chriſtian ſo under the Law as a Covenant of life, ſo as if he breaks it by the leaſt ſin, he shall dye for it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe Jeſus Chriſt hath kept it per<g ref="char:EOLhyphen"/>fectly for him. <hi>Rom. 8. 3, 4. Ro.</hi> 5. 20, 21.</p>
+                  <p>Q. <hi>Can any Man keep the Law per<g ref="char:EOLhyphen"/>fectly in this life?</hi>
+                  </p>
+                  <pb n="107" facs="tcp:175369:60"/>
+                  <p>
+                     <hi>A.</hi> No; for the unregenerate wanting the Spirit of Life, cannot perfect an act of life in obedience to it. The regenerate having the Spirit but in part, perform it only imperfectly. <hi>Rom. 8. 7. Rom.</hi> 7. 21.</p>
+                  <p>Q. <hi>What befalls the unregenerate upon their diſobedience unto it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The eternal curſe of God for the leaſt ſin, and the incteaſe of Gods fierce and fearful ſecret wrath as they increaſe in ſin. <hi>Gal. 3. 10. Rom.</hi> 2. 5.</p>
+                  <p>Q. <hi>What befalls the regenerate after their breach of the Law, and imperfect obedience unto it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The Lord may threaten and correct them, but his loving kindneſs (incovering their ſins in their beſt duties by Chriſt; &amp; accepting their meaneſt ſervices ſo far as they are quickened by his Spirit) is never taken from them. <hi>Pſal. 89. 31, 32, 33. Zach. 3. 1. to 8. Iſa. 56. 7. Rom.</hi> 7. 20.</p>
+                  <p>Q. <hi>What is that imperfect obedience of Believers which is accepted?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> When they ſo obſerve the will of Chriſt, as that therein</p>
+                  <p n="1">1. They confeſs and lament their ſins. 1 <hi>Ioh. 1. 9. Rom.</hi> 7. 24.</p>
+                  <p n="2">2. They deſire mercy in the blood of Chriſt, and more of his Spirit. <hi>Phil.</hi> 3. 9, 10, 11.</p>
+                  <p n="3">
+                     <pb n="108" facs="tcp:175369:61"/>3. They return him the praiſe of the leaſt ability to do his wil. <hi>P<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 50. 23. Cor.</hi> 15. 10.</p>
+                  <p>Q. <hi>How is the Law, or ten Command<g ref="char:EOLhyphen"/>ments, divided?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Into two Tables. The firſt, ſhew<g ref="char:EOLhyphen"/>ing our duty to God immediatly in the four firſt Commandments. The ſe<g ref="char:EOLhyphen"/>cond, our duty to man in the ſix laſt Commandments.</p>
+                  <p>Q. <hi>What rules are you to obſerve to un<g ref="char:EOLhyphen"/>derſtand the Moral Law?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Theſe.</p>
+                  <p n="1">1. That in whatſoever Command<g ref="char:EOLhyphen"/>ment, any duty is enjoyned, there the contrary ſin is forbidden: and where any ſin is forbidden, there the contrary duty is commanded.</p>
+                  <p n="2">2. That the Law is Spiritual, and hence requires not only outward, but inward and Spiritual obedience.</p>
+                  <p n="3">3. Where any groſs ſin is forbidden, there all the ſigns, degrees, means, and provocations to that ſin are forbidden alſo; and are in Gods account that ſin. And ſo where any duty is commanded, there all the ſigns, means, &amp; provoca<g ref="char:EOLhyphen"/>tions to that duty are commanded alſo.</p>
+                  <p n="4">4. That the Law is perfect, and there<g ref="char:EOLhyphen"/>fore there is no ſin in all the Scripture,
+<pb n="109" facs="tcp:175369:61"/> but is forbidden in it; nor no duty requi<g ref="char:EOLhyphen"/>red (if moral) but it is commanded in it.</p>
+                  <p>Thus much of our Moral obſer<g ref="char:EOLhyphen"/>vance of God.</p>
+                  <p>Q. <hi>What is our ceremonial obſervance?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> The celebration of the two Sacra<g ref="char:EOLhyphen"/>ments, Baptiſm and the Lords Supper.</p>
+                  <p>Q. <hi>What is a Sacrament?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> It is an holy ceremony, wherein external ſenſible things by the appoint<g ref="char:EOLhyphen"/>ment of Chriſt, are ſeperate from com<g ref="char:EOLhyphen"/>mon uſe, to ſigniſie, exhibit and ſeal to us that aſſurance of eternal life by Chriſt Jeſus, according to the covenant of his grace. <hi>Gen.</hi> 17. 9, 10.</p>
+                  <p>Q. <hi>Which are the Sacraments?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> They are two, Baptiſm and the Lords ſupper.</p>
+                  <p>Q. <hi>What is the external ſenſible part of Baptiſm?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Water, <hi>John.</hi> 3. 23.</p>
+                  <p>Q. <hi>What is the inward and ſpiritual part of Baptiſm, ſignified, exhibited, and ſealed thereby?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Chriſts Righteouſneſs and his Spirit.</p>
+                  <p n="1">1. Waſhing away our ſin, and ſo de<g ref="char:EOLhyphen"/>livering us from death.</p>
+                  <p n="2">2. Preſenting us clear before the Father, and ſo reſtoring us again to life. <hi>Rom. 4. 1 Cor. 2. 11. Mat.</hi> 3. 11.</p>
+                  <pb n="110" facs="tcp:175369:62"/>
+                  <p>
+                     <hi>Q. What follows from hence?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. That it is a Sacrament of our new birth, &amp; ingrafting into Chriſt. <hi>John</hi> 3. 5.</p>
+                  <p>2. That as we are perfectly juſtified at once, and being new born once, ſhall never die again. Hence this Seal is to be Adminiſtred but once.</p>
+                  <p>Q. <hi>What is the external and ſenſible part of the Lords Supper?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Bread and Wine, with the Sa<g ref="char:EOLhyphen"/>cramental actions about the ſame.</p>
+                  <p>Q. <hi>What is the inward and ſpiritual part of it, ſignified, ſealed, and exhibited thereby?</hi>
+                  </p>
+                  <p>A. The body &amp; blood of Chriſt crucified, offered &amp; given to nouriſh &amp; ſtrengthen believers, renewing their faith unto e<g ref="char:EOLhyphen"/>ternal life. 1 <hi>Cor. 11. 24. Joh.</hi> 6. 54, 55.</p>
+                  <p>Q. <hi>What follows from hence?</hi>
+                  </p>
+                  <p>A. 1. That it is the Sacrament of our growth in Chriſt, being new born, becauſe it is food given to nouriſh us, having received life.</p>
+                  <p>2 That therefore it is to be adminiſtred and received often, that we may grow.</p>
+                  <p>3 That children and fools, &amp; wicked, ought not to partake of the Sacrament, becauſe they cannot examin themſelves, and ſo renew their Faith. 1. <hi>Cor.</hi> 11. 28.</p>
+                  <p>Q <hi>Ought not the Sacrament to be admini<g ref="char:EOLhyphen"/>ſtred
+<pb n="111" facs="tcp:175369:62"/> to carnal people, if they have been baptiſed?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> No, becauſe ſuch as are not within the Cove<g ref="char:EOLhyphen"/>nant, have no right to the Seal of the Covenant.</p>
+                  <p>Q. <hi>Where are believers, who have right unto this Sacrament, to ſeek fruition of it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Becauſe it ought not be adminiſtred pri<g ref="char:EOLhyphen"/>vately, [as the Papiſts would,] Hence Gods people are to ſeek to enjoy their right to it in ſome particulat viſible Church, in joyning with them, as fellow-members of the ſame body. I <hi>Cor. 11. 20, 22. 1 Chron. 10. 17. Act.</hi> 2. 42.</p>
+                  <p>Q. <hi>What members ought every particular vi<g ref="char:EOLhyphen"/>ſible Church to oonſiſt of?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Chriſt being head of every particular Church, and it his body, hence none are to be members of the Church but ſuch as are mem<g ref="char:EOLhyphen"/>bers of Chriſt by faith. 1. <hi>Cor. 1. 2. 1. Theſ.</hi> 1.</p>
+                  <p>Q. <hi>But do not Hypocrites, and no true Mem<g ref="char:EOLhyphen"/>bers of Chriſt, creep in?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Yes; but if they could have been known to be ſuch, they ought to be kept out, and when they are known, they are orderly to be caſt out. <hi>Mat. 25. 1. 2 Tim. 3. 5. Rev. 2. 20. Tit.</hi> 3. 20.</p>
+                  <p>Q <hi>Are theſe Members bound only to cleave to Chriſt their head by Faith?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Yes, &amp; to one another alſo by Brotherly love, which they are bound to ſtrengthen &amp; confirm, (as well as their Faith) by a ſolemn Covenant. <hi>Eph. 4. 15, 16. Col. 1. 4. Ier. 50. 4. Iſa. 56. 45. Zach. 11. 14. Zeph. 3. 9. Pſal.</hi> 119. 106.</p>
+                  <p>Q. <hi>What benefits are there by joyning thus to a particular Church?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> 1. Hereby they come to be under the ſpecial Government of Chriſt in his Church, and the Officers thereof. <hi>Iſa.</hi> 30. 20.</p>
+                  <pb n="112" facs="tcp:175369:63"/>
+                  <p>2. Hereby they have the promiſe of ſpecia<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bleſſing, and on their children alſo. <hi>Pſal. 133 3. Exod.</hi> 20. 6.</p>
+                  <p>3. Herein they have the promiſe of God ſpecial preſence.</p>
+                  <p n="1">1. Revealing unto them his will. <hi>Pſal. 27. 4. Pſal.</hi> 63. 2, 3.</p>
+                  <p n="2">2. Protecting rhem. <hi>Iſa.</hi> 44. 6.</p>
+                  <p n="3">3. Hearing al their Prayers. <hi>Deut 4. 7. Mat. 18. 19</hi>
+                  </p>
+                  <p>Q. <hi>Are there not ſome who never find theſe benefits</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Yes; becauſe many knowing not how to make uſe of Gods Ordinances, nor feeling a need of Gods preſence only in them, their ſin alſo blinding, &amp; partly hardning their hearts, &amp; pol<g ref="char:EOLunhyphen"/>luting Gods houſe, they then becom worſe when they have beſt means. <hi>Mat. 11. 23. Ier. 17. 5, 6 Heb. 6. 8. 1 Sam. 5. 8, 9. Ezek. 14. 4. 1 King.</hi> 8. 21.</p>
+                  <p>Q. <hi>What are the miſeries of thoſe who careleſly &amp; wilfully deſpiſe, &amp; ſo refuſe to joyn to Gods Church</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> Beſides the loſs of Gods preſence in the fellowſhip of his people, it is a fearful ſign (continuing ſo) God never intends to ſave thei<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſouls. <hi>Ast. 2. 47. Iſa. 60. 12. Rev.</hi> 2. 23. 24.</p>
+                  <p>Q. <hi>What therefore ought people chiefly to la<g ref="char:EOLhyphen"/>bour for, and to hold forth unto the Church, that ſo they may be joyned to it?</hi>
+                  </p>
+                  <p>
+                     <hi>A.</hi> A threefold work.</p>
+                  <p n="1">1. Of <hi>Humiliation,</hi> under their miſery, death, &amp; ſin, as their greateſt evil. <hi>Ast. 2. 37. Mat.</hi> 3. 6.</p>
+                  <p n="2">2. Of <hi>Vocation,</hi> or their drawing to Chriſt, out of this miſery, as to their greateſt and on<g ref="char:EOLhyphen"/>ly good. <hi>Act.</hi> 2. 38, 41.</p>
+                  <p n="3">3. Of new <hi>Obedience,</hi> how they have walked in Chriſt ſince called. <hi>Act. 9. 26, 27. Mat. 3. 8.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
